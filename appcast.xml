@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Wherever Updates</title>
-        <link>https://github.com/writronic/Wherever</link>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
+        <title>Wherever</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 12 Nov 2026 15:11:49 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/writronic/Wherever/releases/download/v0.1.0/Wherever.dmg" length="18913338" type="application/octet-stream" sparkle:edSignature="iw0jNuotgVDIZmc+a92a520/bQQVT0PSGVOkIBCvmrHjssUMWi7VkMvkSZ5EY9tOLh+nqUCzQw1tmIA3n6GzDw=="/>
+        </item>
     </channel>
 </rss>
