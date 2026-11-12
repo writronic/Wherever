@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  Français
+*/
+
+"Press a shortcut…" = "Appuyez sur un raccourci…";
+"Record Shortcut" = "Enregistrer un raccourci";
+"Launcher shortcut" = "Raccourci du lanceur";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "Cliquez, puis appuyez sur le nouveau raccourci. Échap annule, Supprimer l’efface.";
+"Hold Control, Option or Command with the key." = "Maintenez Contrôle, Option ou Commande avec la touche.";
+"macOS already uses this shortcut." = "macOS utilise déjà ce raccourci.";
+"Wherever already uses this shortcut." = "Wherever utilise déjà ce raccourci.";
+"Use a letter, number or symbol key." = "Utilisez une touche de lettre, de chiffre ou de symbole.";
+"Wherever could not register this shortcut. Try another." = "Wherever n’a pas pu enregistrer ce raccourci. Essayez-en un autre.";
+"Space" = "Espace";

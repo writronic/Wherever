@@ -1,0 +1,23 @@
+/*
+  Inspector.strings
+  Wherever
+
+  Русский
+*/
+
+"Show Inspector" = "Показать инспектор";
+"Hide Inspector" = "Скрыть инспектор";
+"Show inspector" = "Показывать инспектор";
+"No Selection" = "Ничего не выбрано";
+"Information" = "Информация";
+"Preview" = "Просмотр";
+"Where" = "Место";
+"Created" = "Создан";
+"Owner" = "Владелец";
+"Permissions" = "Права доступа";
+"Read & Write" = "Чтение и запись";
+"Read only" = "Только чтение";
+"Write only" = "Только запись";
+"No access" = "Нет доступа";
+"%@ · %@" = "%@ · %@";
+"In iCloud" = "В iCloud";

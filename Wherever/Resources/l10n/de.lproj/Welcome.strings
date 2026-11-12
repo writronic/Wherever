@@ -1,0 +1,30 @@
+/*
+  Welcome.strings
+  Wherever
+
+  Deutsch
+*/
+
+"Welcome to Wherever" = "Willkommen bei Wherever";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "Mit dem Festplattenvollzugriff sieht Wherever jeden Ordner auf deinem Mac und kann jede Datei finden.";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "Wherever liest Dateinamen, Größen und Datumsangaben, im Normal-Modus auch die Wörter in deinen Dateien. Nichts verlässt deinen Mac.";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "Aktiviere unter „Datenschutz & Sicherheit“ im Bereich „Festplattenvollzugriff“ die Option für Wherever.";
+"Quit and reopen Wherever so it can search every folder." = "Beende Wherever und öffne es erneut, damit alle Ordner durchsucht werden.";
+"Open System Settings" = "Systemeinstellungen öffnen";
+"Let's Go!" = "Los geht’s!";
+"Full Disk Access is on. Wherever is ready to start." = "Der Festplattenvollzugriff ist aktiviert. Wherever ist startbereit.";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "Der Festplattenvollzugriff ist noch deaktiviert. Aktiviere diese Kopie von Wherever unter Systemeinstellungen > Datenschutz & Sicherheit > Festplattenvollzugriff.";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "Wherever konnte den Festplattenvollzugriff nicht prüfen und versucht es erneut. Falls das weiterhin passiert, beende Wherever und öffne es erneut.";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "Die Systemeinstellungen konnten nicht geöffnet werden. Öffne sie über das Apple-Menü und wähle Datenschutz & Sicherheit > Festplattenvollzugriff.";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "Wherever konnte die Suche nicht starten. Beende Wherever, öffne es erneut und versuche es noch einmal.";
+"Welcome to Wherever!" = "Willkommen bei Wherever!";
+"Wherever it is, find it." = "Egal, wo es ist: Du findest es.";
+"Back" = "Zurück";
+"Next" = "Weiter";
+"Choose Your Mode" = "Wähle deinen Modus";
+"You can change it later in the View menu." = "Du kannst das später im Menü „Darstellung“ ändern.";
+"Set Up Wherever" = "Wherever einrichten";
+"You can change these later in Settings." = "Du kannst das später in den Einstellungen ändern.";
+"Launcher shortcut" = "Launcher-Kurzbefehl";
+"You’re All Set" = "Alles bereit";
+"Step %lld of %lld" = "Schritt %1$lld von %2$lld";

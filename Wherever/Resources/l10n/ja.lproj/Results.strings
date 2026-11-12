@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  日本語
+*/
+
+"Name" = "名前";
+"Folder" = "フォルダ";
+"Size" = "サイズ";
+"Modified" = "変更日";
+"Kind" = "種類";
+"Open" = "開く";
+"Show Archive Contents" = "アーカイブの内容を表示";
+"Show in Finder" = "Finderに表示";
+"Quick Look" = "クイックルック";
+"Copy Path" = "パス名をコピー";
+"No results" = "結果なし";
+"Show all in Wherever" = "Wherever内のすべてを表示";
+"Created" = "作成日";
+"Opened" = "最後に開いた日";
+"Keep Folders on Top" = "フォルダを常に先頭に表示";
+"Search failed. Try again." = "検索できませんでした。やり直してください。";
+"%@ is not indexed" = "%@のインデックスは作成されていません";
+"Manage…" = "管理…";
+"Finishing the index…" = "インデックスを完了しています…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Whereverはインデックスを作成できませんでした。Whereverメニューから「Whereverを終了」を選択し、Whereverを開き直してください。";
+"Could not read %@" = "%@を読み込めませんでした";
+"Live updates are off for %@" = "%@のライブ更新はオフです";

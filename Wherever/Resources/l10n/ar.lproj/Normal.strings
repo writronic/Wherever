@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  العربية
+*/
+
+"Search folder:" = "مجلد البحث:";
+"File name:" = "اسم الملف:";
+"File content:" = "محتوى الملف:";
+"File name match" = "مطابقة اسم الملف";
+"File content match" = "مطابقة محتوى الملف";
+"Search terms separated by the Enter key" = "افصل كلمات البحث بمفتاح الإدخال";
+"Contains" = "يحتوي على";
+"Matches" = "يطابق";
+"Begins with" = "يبدأ بـ";
+"Ends with" = "ينتهي بـ";
+"Extension" = "الامتداد";
+"Wildcard" = "حرف بدل";
+"Regex" = "تعبير نمطي";
+"Find all terms" = "البحث عن كل الكلمات";
+"Find any term" = "البحث عن أي كلمة";
+"Search Content" = "البحث في المحتوى";
+"Stop" = "إيقاف";
+"Every indexed disk" = "كل الأقراص المفهرسة";
+"%@ (Not indexed)" = "%@ (غير مفهرس)";
+"%@ (Can’t be indexed)" = "%@ (لا يمكن فهرسته)";
+"Index “%@”?" = "هل تريد فهرسة «%@»؟";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "يقرأ Wherever كل أسماء الملفات على هذا القرص قبل أن يتمكن من البحث فيه. قد يستغرق القرص الكبير عدة دقائق. لتجاهله مرة أخرى، أضفه إلى المسارات المستبعدة في الإعدادات.";
+"Index" = "فهرسة";
+"Cancel" = "إلغاء";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "يبحث عن الملفات التي تحتوي على هذه الكلمات. عندما يكون مجلد البحث فارغًا يقرأ كل الأقراص المفهرسة؛ اكتب قرصًا أو مجلدًا أو اختره للبحث فيه.";
+"Not Now" = "ليس الآن";
+"Browse…" = "استعراض…";
+"Choose" = "اختيار";
+"Choose a folder to search in" = "اختر مجلدًا للبحث فيه";
+"Choose a disk" = "اختر قرصًا";

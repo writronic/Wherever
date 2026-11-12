@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  Español
+*/
+
+"Name" = "Nombre";
+"Folder" = "Carpeta";
+"Size" = "Tamaño";
+"Modified" = "Modificado";
+"Kind" = "Clase";
+"Open" = "Abrir";
+"Show Archive Contents" = "Mostrar contenido del archivo";
+"Show in Finder" = "Mostrar en el Finder";
+"Quick Look" = "Vista rápida";
+"Copy Path" = "Copiar como ruta";
+"No results" = "Sin resultados";
+"Show all in Wherever" = "Mostrar todo en Wherever";
+"Created" = "Creado";
+"Opened" = "Abierto";
+"Keep Folders on Top" = "Mantener las carpetas en la parte superior";
+"Search failed. Try again." = "No se ha podido completar la búsqueda. Inténtalo de nuevo.";
+"%@ is not indexed" = "%@ no está indexado";
+"Manage…" = "Gestionar…";
+"Finishing the index…" = "Finalizando el índice…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Wherever no pudo crear el índice. Elige “Salir de Wherever” en el menú Wherever y vuelve a abrir Wherever.";
+"Could not read %@" = "No se pudo leer %@";
+"Live updates are off for %@" = "Actualización en vivo desactivada para %@";

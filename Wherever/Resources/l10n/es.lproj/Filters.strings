@@ -1,0 +1,36 @@
+/*
+  Filters.strings
+  Wherever
+
+  Español
+*/
+
+"Extension (pdf, docx)" = "Extensión (pdf, docx)";
+"Extension" = "Extensión";
+"Kind" = "Clase";
+"Size" = "Tamaño";
+"Modified" = "Modificado";
+"%@: %@" = "%@: %@";
+"Hide invisible files" = "Ocultar archivos invisibles";
+"Any kind" = "Cualquier clase";
+"Files" = "Archivos";
+"Folders" = "Carpetas";
+"Links" = "Enlaces";
+"Images" = "Imágenes";
+"Videos" = "Vídeos";
+"Audio" = "Audio";
+"Documents" = "Documentos";
+"Code" = "Código";
+"Archives" = "Archivos comprimidos";
+"Fonts" = "Tipos de letra";
+"Apps" = "Aplicaciones";
+"Any size" = "Cualquier tamaño";
+"Under 1 MB" = "Menos de 1 MB";
+"1 MB to 100 MB" = "De 1 MB a 100 MB";
+"100 MB to 1 GB" = "De 100 MB a 1 GB";
+"Over 1 GB" = "Más de 1 GB";
+"Any time" = "Cualquier fecha";
+"Last 24 hours" = "Últimas 24 horas";
+"Last 7 days" = "Últimos 7 días";
+"Last 30 days" = "Últimos 30 días";
+"Last 12 months" = "Últimos 12 meses";

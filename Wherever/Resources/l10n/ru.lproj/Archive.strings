@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  Русский
+*/
+
+"Enclosing Folder" = "На уровень выше";
+"Reading “%@”…" = "Чтение «%@»…";
+"Items: %@" = "Объекты: %@";
+"Encrypted" = "Зашифровано";
+"RAR archive" = "RAR-архив";
+"Items whose names or links point outside the archive, and device files." = "Объекты, имена или ссылки которых указывают за пределы архива, и файлы устройств.";
+"The archive “%@” is empty." = "Архив «%@» пуст.";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever не может прочитать «%@». Возможно, архив поврежден.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever не может прочитать «%@». Формат не поддерживается.";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever не может прочитать «%@», так как он зашифрован.";
+"Wherever can’t find “%@”." = "Wherever не может найти «%@».";
+"“%@” changed on disk. Close this window and open it again." = "«%@» изменен на диске. Закройте это окно и откройте архив снова.";
+"“%@” is open in another window. Close it first." = "«%@» открыт в другом окне. Сначала закройте то окно.";
+"There isn’t enough space on “%@”. This needs %@ more." = "Недостаточно места на «%@». Нужно еще %@.";
+"“%@” points outside the archive." = "«%@» указывает за пределы архива.";
+"Preparing “%@”…" = "Подготовка «%@»…";
+"Wherever can’t copy “%@”." = "Wherever не может скопировать «%@».";
+"Opening “%@”…" = "Открытие «%@»…";
+"Enter the password for “%@”." = "Введите пароль для «%@».";
+"Password" = "Пароль";
+"OK" = "OK";
+"The password is incorrect. Try again." = "Неверный пароль. Повторите попытку.";
+"Expand Selected Items…" = "Разархивировать выбранные объекты…";
+"Expand Archive…" = "Разархивировать…";
+"Choose where to expand “%@”." = "Выберите, куда разархивировать «%@».";
+"Expand" = "Разархивировать";
+"Expanding “%@”…" = "Разархивирование «%@»…";
+"Stop expanding “%@”?" = "Остановить разархивирование «%@»?";
+"The items expanded so far will be removed." = "Уже разархивированные объекты будут удалены.";
+"Stop Expanding" = "Остановить";
+"Continue" = "Продолжить";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "Объекты, имена или ссылки которых указывают за пределы архива, файлы устройств и объекты, которые Wherever не удалось разархивировать.";
+"Search in “%@”" = "Поиск в «%@»";
+"“%@” can’t be deleted because another item in the archive links to it." = "Невозможно удалить «%@», так как на него ссылается другой объект архива.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "В этом архиве используется устаревшее шифрование, поэтому Wherever не может его изменить.";
+"The archive would hold two items named “%@”." = "В архиве оказалось бы два объекта с именем «%@».";
+"Delete" = "Удалить";
+"Edited" = "Изменено";
+"Read only" = "Только для чтения";
+"Only .zip files and tarballs can be edited." = "Редактировать можно только файлы .zip и архивы tar.";
+"Items in an archive inside another archive can’t be edited." = "Объекты архива, вложенного в другой архив, нельзя изменить.";
+"“%@” is locked." = "Для «%@» установлена защита.";
+"You don’t have permission to change “%@”." = "У вас нет разрешения на изменение «%@».";
+"“%@” is on a read-only volume." = "«%@» находится на томе только для чтения.";
+"Add Files…" = "Добавить файлы…";
+"Add" = "Добавить";
+"Choose the items to add to “%@”." = "Выберите объекты для добавления в «%@».";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "В этой папке уже есть объект «%@». Заменить его копируемым объектом?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Папка с именем «%@» уже имеется в этом месте. Заменить ее копируемой папкой?";
+"Replace" = "Заменить";
+"Keep Both" = "Оставить оба";
+"Stop" = "Остановить";
+"Apply to All" = "Для всех";
+"Adding “%@”…" = "Добавление «%@»…";
+"Save" = "Сохранить";
+"Save As…" = "Сохранить как…";
+"Saving “%@”…" = "Сохранение «%@»…";
+"The archive “%@” could not be saved. %@" = "Не удается сохранить архив «%1$@». %2$@";
+"Don’t Save" = "Не сохранять";
+"Do you want to save the changes made to the archive “%@”?" = "Хотите сохранить изменения, внесенные в архив «%@»?";
+"Your changes will be lost if you don’t save them." = "Если изменения не сохранить, они будут утрачены.";

@@ -1,0 +1,113 @@
+/*
+  Settings.strings
+  Wherever
+
+  العربية
+*/
+
+"Settings…" = "الإعدادات…";
+"General" = "عام";
+"Wherever could not change this. Check Login Items in System Settings." = "تعذّر على Wherever تغيير هذا الإعداد. تحقق من «عناصر الدخول» في إعدادات النظام.";
+"Open Login Items" = "فتح «عناصر الدخول»";
+"Launcher shortcut" = "اختصار المشغّل";
+"Press it in any app to search your files." = "اضغط عليه في أي تطبيق للبحث في ملفاتك.";
+"Clear Open History…" = "مسح سجل الفتح…";
+"Files you open often rank higher in results." = "تظهر الملفات التي تفتحها كثيرًا في مرتبة أعلى في النتائج.";
+"Clear open history?" = "هل تريد مسح سجل الفتح؟";
+"Wherever forgets which files you opened. Results no longer rank them higher." = "ينسى Wherever الملفات التي فتحتها، ولن ترتّبها النتائج في مرتبة أعلى بعد الآن.";
+"Clear" = "مسح";
+"Cancel" = "إلغاء";
+"Wherever could not clear the open history." = "تعذّر على Wherever مسح سجل الفتح.";
+"Locations" = "المواقع";
+"Excluded Paths" = "المسارات المستبعدة";
+"Add excluded path" = "إضافة المسار المستبعد";
+"Remove excluded path" = "إزالة المسار المستبعد";
+"Wherever skips these paths and everything inside them. Search Content still reads one, or a folder inside it, when you choose it as the Search folder." = "يتجاوز Wherever هذه المسارات وكل ما بداخلها. ويظل البحث في المحتوى يقرأ أحدها أو أي مجلد بداخله عندما تختاره كمجلد البحث.";
+"Other disks start in this list. Remove a disk to index it." = "تبدأ الأقراص الأخرى في هذه القائمة. أزل قرصًا لفهرسته.";
+"Wherever could not change the locations. Try again." = "تعذّر على Wherever تغيير المواقع. حاول مرة أخرى.";
+"Exclude" = "استبعاد";
+"Choose a folder Wherever leaves out of the index." = "اختر مجلدًا يستبعده Wherever من الفهرس.";
+"Startup" = "بدء التشغيل";
+"Appearance" = "المظهر";
+"Open History" = "سجل الفتح";
+"Shortcut" = "الاختصار";
+"About" = "نبذة";
+"Version %@" = "الإصدار %@";
+"Copyright © 2026 Writronic. All rights reserved." = "حقوق النشر © 2026 Writronic. جميع الحقوق محفوظة.";
+
+"Starts the menu bar icon and the launcher shortcut when you log in, as you set them below." = "يبدأ رمز شريط القوائم واختصار المشغّل عند تسجيل الدخول، وفق ما تضبطه أدناه.";
+"Open at Login" = "فتح عند الدخول";
+"Allow Wherever in Login Items in System Settings." = "السماح بـ Wherever ضمن «عناصر الدخول» في «إعدادات النظام».";
+
+"Reset Settings" = "إعادة تعيين الإعدادات";
+"Reset all settings, saved indexes and open history (cannot be undone)" = "إعادة تعيين كل الإعدادات والفهارس المحفوظة وسجل الفتح (لا يمكن التراجع عن ذلك)";
+"Reset All Settings?" = "هل تريد إعادة تعيين جميع الإعدادات؟";
+"Wherever deletes your settings, saved indexes, and open history, and turns off Open at Login. Then it quits and reopens. You can’t undo this action." = "سيحذف Wherever إعداداتك والفهارس المحفوظة وسجل الفتح، ويوقف «فتح عند الدخول». ثم يُنهى ويُعاد فتحه. لا يمكن التراجع عن هذا الإجراء.";
+"Reset" = "إعادة تعيين";
+"Wherever could not reset. Try again." = "تعذّر على Wherever إعادة التعيين. حاول مرة أخرى.";
+
+"Export Settings…" = "تصدير الإعدادات…";
+"Import Settings…" = "استيراد إعدادات…";
+"Export Settings" = "تصدير الإعدادات";
+"Import Settings" = "استيراد إعدادات";
+"Export…" = "تصدير…";
+"Import…" = "استيراد…";
+"Wherever Settings" = "إعدادات Wherever";
+"Import settings?" = "هل تريد استيراد الإعدادات؟";
+"Wherever replaces your current settings with the ones in the file, then quits and reopens." = "سيستبدل Wherever إعداداتك الحالية بإعدادات الملف، ثم يُنهى ويُعاد فتحه.";
+"Import" = "استيراد";
+"This file is from a newer version of Wherever. Update Wherever, then try again." = "هذا الملف من إصدار أحدث من Wherever. حدّث Wherever ثم حاول مرة أخرى.";
+"Wherever could not read this settings file." = "تعذّر على Wherever قراءة ملف الإعدادات هذا.";
+"Wherever could not export the settings." = "تعذّر على Wherever تصدير الإعدادات.";
+"Wherever could not reopen. The settings are saved and take effect when you quit and reopen Wherever." = "تعذّر على Wherever إعادة الفتح. الإعدادات محفوظة وستصبح سارية عند إنهاء Wherever وإعادة فتحه.";
+"Can’t be indexed: this disk has no UUID" = "لا يمكن فهرسته: ليس لهذا القرص معرّف UUID";
+"This path isn’t valid" = "هذا المسار غير صالح";
+"The disk isn’t connected" = "القرص غير متصل";
+"When a disk that isn’t indexed is connected" = "عند توصيل قرص غير مفهرس";
+"Ask in the Status Bar" = "السؤال في شريط الحالة";
+"Ask with a Notification" = "السؤال عبر إشعار";
+"Index Automatically" = "الفهرسة تلقائيًا";
+"Do Nothing" = "عدم القيام بأي إجراء";
+"Notifications for Wherever are turned off. Allow them in System Settings > Notifications." = "تم إيقاف إشعارات Wherever. اسمح بها في إعدادات النظام > الإشعارات.";
+"Exclude “%@”?" = "هل تريد استبعاد “%@”؟";
+"Wherever won’t index %@ while this path is in the list." = "لن يفهرس Wherever ‏%@ ما دام هذا المسار في القائمة.";
+"Remove “%@” to index this disk" = "أزل “%@” لفهرسة هذا القرص";
+
+"Search" = "البحث";
+"Typo-Tolerant Search" = "بحث يتسامح مع الأخطاء الإملائية";
+"When no name holds your letters side by side, also shows close matches, such as names with a typo." = "عندما لا يحتوي أي اسم على أحرفك متتالية، يعرض أيضًا مطابقات قريبة، مثل الأسماء التي بها خطأ إملائي.";
+
+"System" = "النظام";
+"Light" = "فاتح";
+"Dark" = "داكن";
+
+"Language" = "اللغة";
+"System Default" = "افتراضي النظام";
+"Restart Wherever?" = "هل تريد إعادة تشغيل Wherever؟";
+"The language change will take effect after restarting Wherever." = "سيصبح تغيير اللغة ساري المفعول بعد إعادة تشغيل Wherever.";
+"Restart Now" = "إعادة التشغيل الآن";
+"Later" = "لاحقًا";
+"Software Updates" = "تحديثات البرامج";
+"Automatically check for updates" = "التحقق من التحديثات تلقائيًا";
+"Wherever search background opacity" = "معدل تعتيم خلفية بحث Wherever";
+"Wherever search stays solid while Reduce transparency is on in System Settings > Accessibility." = "يبقى بحث Wherever معتمًا ما دام «تقليل الشفافية» قيد التشغيل في «إعدادات النظام» > «تسهيلات الاستخدام».";
+"Text size" = "حجم النص";
+"%lld pt" = "%lld ن";
+"A" = "ع";
+"Command-Line Tool" = "أداة سطر الأوامر";
+"Install" = "تثبيت";
+"Uninstall" = "إلغاء التثبيت";
+"Search from the command line with the wherever command." = "ابحث من سطر الأوامر باستخدام الأمر wherever.";
+"Installed at %@." = "مثبّتة في %@.";
+"Open a new Terminal window to use it." = "افتح نافذة جديدة في الوحدة الطرفية لاستخدامه.";
+"The wherever command is missing. Install it again." = "الأمر wherever غير موجود. ثبّته مرة أخرى.";
+"Wherever could not install the command-line tool." = "تعذّر على Wherever تثبيت أداة سطر الأوامر.";
+"Wherever could not uninstall the command-line tool." = "تعذّر على Wherever إلغاء تثبيت أداة سطر الأوامر.";
+"Another program already uses %@. Remove it, then try again." = "يستخدم برنامج آخر %@ بالفعل. أزِله ثم حاول مرة أخرى.";
+"Move Wherever to the Applications folder, then try again." = "انقل Wherever إلى مجلد التطبيقات، ثم حاول مرة أخرى.";
+"Menu Bar" = "شريط القوائم";
+"Show Menu Bar Icon" = "إظهار رمز شريط القوائم";
+"Shows a Wherever icon in the menu bar. Click it to open the launcher, or right-click it for a menu. If it does not appear, open System Settings and look in the Menu Bar section." = "يُظهر رمز Wherever في شريط القوائم. انقر عليه لفتح المشغّل، أو انقر بزر الفأرة الأيمن لعرض قائمة. إذا لم يظهر، فافتح «إعدادات النظام» وابحث في قسم «شريط القوائم».";
+"Made with ❤️" = "صُنع بحب ❤️";
+"Visit Website" = "زيارة الموقع الإلكتروني";
+"Donate" = "تبرع";

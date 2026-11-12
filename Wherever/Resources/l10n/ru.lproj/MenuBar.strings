@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  Русский
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "Открыть Wherever";
+"New Window" = "Новое окно";
+"Settings…" = "Настройки…";
+"Donate…" = "Поддержать…";
+"Check for Updates…" = "Проверить обновления…";
+"About Wherever" = "О приложении «Wherever»";
+"Quit Wherever" = "Завершить Wherever";
+"Pause Live Updates" = "Приостановить обновления в реальном времени";
+"Resume Live Updates" = "Возобновить обновления в реальном времени";
+"Live Updates" = "Обновления в реальном времени";

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%lld results</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@results@</string>
+		<key>results</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld результат</string>
+			<key>few</key>
+			<string>%lld результата</string>
+			<key>many</key>
+			<string>%lld результатов</string>
+			<key>other</key>
+			<string>%lld результата</string>
+		</dict>
+	</dict>
+	<key>Read %lld of %lld files</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Прочитано %1$lld из %2$#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%2$lld файла</string>
+			<key>few</key>
+			<string>%2$lld файлов</string>
+			<key>many</key>
+			<string>%2$lld файлов</string>
+			<key>other</key>
+			<string>%2$lld файла</string>
+		</dict>
+	</dict>
+	<key>Stopped after %lld of %lld files</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Остановлено после %1$lld из %2$#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%2$lld файла</string>
+			<key>few</key>
+			<string>%2$lld файлов</string>
+			<key>many</key>
+			<string>%2$lld файлов</string>
+			<key>other</key>
+			<string>%2$lld файла</string>
+		</dict>
+	</dict>
+	<key>%lld files not downloaded</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld файл не загружен</string>
+			<key>few</key>
+			<string>%lld файла не загружены</string>
+			<key>many</key>
+			<string>%lld файлов не загружено</string>
+			<key>other</key>
+			<string>%lld файла не загружено</string>
+		</dict>
+	</dict>
+	<key>%lld files in unsupported formats</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld файл в неподдерживаемом формате</string>
+			<key>few</key>
+			<string>%lld файла в неподдерживаемых форматах</string>
+			<key>many</key>
+			<string>%lld файлов в неподдерживаемых форматах</string>
+			<key>other</key>
+			<string>%lld файла в неподдерживаемых форматах</string>
+		</dict>
+	</dict>
+	<key>%lld disks are not indexed</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@disks@</string>
+		<key>disks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld диск не проиндексирован</string>
+			<key>few</key>
+			<string>%lld диска не проиндексированы</string>
+			<key>many</key>
+			<string>%lld дисков не проиндексировано</string>
+			<key>other</key>
+			<string>%lld диска не проиндексировано</string>
+		</dict>
+	</dict>
+	<key>%lld files skipped</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld файл пропущен</string>
+			<key>few</key>
+			<string>%lld файла пропущены</string>
+			<key>many</key>
+			<string>%lld файлов пропущено</string>
+			<key>other</key>
+			<string>%lld файла пропущено</string>
+		</dict>
+	</dict>
+	<key>%lld items</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld объект</string>
+			<key>few</key>
+			<string>%lld объекта</string>
+			<key>many</key>
+			<string>%lld объектов</string>
+			<key>other</key>
+			<string>%lld объекта</string>
+		</dict>
+	</dict>
+	<key>Are you sure you want to open %lld items?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Вы действительно хотите открыть %#@items@?</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld объект</string>
+			<key>few</key>
+			<string>%lld объекта</string>
+			<key>many</key>
+			<string>%lld объектов</string>
+			<key>other</key>
+			<string>%lld объекта</string>
+		</dict>
+	</dict>
+	<key>Are you sure you want to show %lld items in Finder?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Вы действительно хотите показать %#@items@ в Finder?</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld объект</string>
+			<key>few</key>
+			<string>%lld объекта</string>
+			<key>many</key>
+			<string>%lld объектов</string>
+			<key>other</key>
+			<string>%lld объекта</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

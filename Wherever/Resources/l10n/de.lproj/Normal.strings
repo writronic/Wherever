@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  Deutsch
+*/
+
+"Search folder:" = "Suchordner:";
+"File name:" = "Dateiname:";
+"File content:" = "Dateiinhalt:";
+"File name match" = "Dateinamen-Abgleich";
+"File content match" = "Dateiinhalt-Abgleich";
+"Search terms separated by the Enter key" = "Suchbegriffe mit der Eingabetaste trennen";
+"Contains" = "Enthält";
+"Matches" = "Entspricht";
+"Begins with" = "Beginnt mit";
+"Ends with" = "Endet mit";
+"Extension" = "Dateiendung";
+"Wildcard" = "Platzhalter";
+"Regex" = "Regulärer Ausdruck";
+"Find all terms" = "Alle Begriffe finden";
+"Find any term" = "Einen Begriff finden";
+"Search Content" = "Inhalt durchsuchen";
+"Stop" = "Stopp";
+"Every indexed disk" = "Alle indizierten Festplatten";
+"%@ (Not indexed)" = "%@ (nicht indiziert)";
+"%@ (Can’t be indexed)" = "%@ (kann nicht indiziert werden)";
+"Index “%@”?" = "„%@“ indizieren?";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever liest jeden Dateinamen auf dieser Festplatte, bevor es sie durchsuchen kann. Eine große Festplatte kann mehrere Minuten dauern. Um sie wieder zu ignorieren, füge sie in den Einstellungen zu „Ausgeschlossene Pfade“ hinzu.";
+"Index" = "Indizieren";
+"Cancel" = "Abbrechen";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "Findet Dateien, die diese Begriffe enthalten. Mit leerem Suchordner liest es alle indizierten Festplatten; gib eine Festplatte oder einen Ordner ein oder wähle sie aus, um dort zu suchen.";
+"Not Now" = "Später";
+"Browse…" = "Durchsuchen …";
+"Choose" = "Auswählen";
+"Choose a folder to search in" = "Ordner zum Durchsuchen wählen";
+"Choose a disk" = "Festplatte wählen";

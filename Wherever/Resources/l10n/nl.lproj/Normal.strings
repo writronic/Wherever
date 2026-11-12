@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Search folder:" = "Zoekmap:";
+"File name:" = "Bestandsnaam:";
+"File content:" = "Bestandsinhoud:";
+"File name match" = "Overeenkomst met bestandsnaam";
+"File content match" = "Overeenkomst met bestandsinhoud";
+"Search terms separated by the Enter key" = "Scheid zoektermen met de Enter-toets";
+"Contains" = "Bevat";
+"Matches" = "Komt overeen met";
+"Begins with" = "Begint met";
+"Ends with" = "Eindigt op";
+"Extension" = "Extensie";
+"Wildcard" = "Jokerteken";
+"Regex" = "Reguliere expressie";
+"Find all terms" = "Vind alle termen";
+"Find any term" = "Vind een van de termen";
+"Search Content" = "Inhoud zoeken";
+"Stop" = "Stop";
+"Every indexed disk" = "Alle geïndexeerde schijven";
+"%@ (Not indexed)" = "%@ (niet geïndexeerd)";
+"%@ (Can’t be indexed)" = "%@ (kan niet worden geïndexeerd)";
+"Index “%@”?" = "‘%@’ indexeren?";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever leest elke bestandsnaam op deze schijf voordat het erin kan zoeken. Een grote schijf kan enkele minuten duren. Voeg de schijf toe aan Uitgesloten paden in Instellingen om haar weer te negeren.";
+"Index" = "Indexeer";
+"Cancel" = "Annuleer";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "Vindt bestanden die deze termen bevatten. Met een lege zoekmap leest het alle geïndexeerde schijven; typ of kies een schijf of map om daar te zoeken.";
+"Not Now" = "Niet nu";
+"Browse…" = "Bladeren…";
+"Choose" = "Kies";
+"Choose a folder to search in" = "Kies een map om in te zoeken";
+"Choose a disk" = "Kies een schijf";

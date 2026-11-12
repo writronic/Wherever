@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  Deutsch
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "Wherever öffnen";
+"New Window" = "Neues Fenster";
+"Settings…" = "Einstellungen …";
+"Donate…" = "Spenden …";
+"Check for Updates…" = "Nach Updates suchen …";
+"About Wherever" = "Über „Wherever“";
+"Quit Wherever" = "Wherever beenden";
+"Pause Live Updates" = "Live-Aktualisierung pausieren";
+"Resume Live Updates" = "Live-Aktualisierung fortsetzen";
+"Live Updates" = "Live-Aktualisierung";

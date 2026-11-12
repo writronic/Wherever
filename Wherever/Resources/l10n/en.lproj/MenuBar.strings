@@ -1,0 +1,19 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  English (Base Language)
+  The English sentence is the lookup key. Every value equals its key.
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "Open Wherever";
+"New Window" = "New Window";
+"Settings…" = "Settings…";
+"Donate…" = "Donate…";
+"Check for Updates…" = "Check for Updates…";
+"About Wherever" = "About Wherever";
+"Quit Wherever" = "Quit Wherever";
+"Pause Live Updates" = "Pause Live Updates";
+"Resume Live Updates" = "Resume Live Updates";
+"Live Updates" = "Live Updates";

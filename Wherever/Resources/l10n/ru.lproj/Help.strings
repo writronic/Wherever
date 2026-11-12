@@ -1,0 +1,66 @@
+/*
+  Help.strings
+  Wherever
+
+  Русский
+*/
+
+"Keyboard Shortcuts" = "Сочетания клавиш";
+"Search window" = "Окно поиска";
+"Move through the results" = "Перемещаться по результатам";
+"Open the selected file" = "Открыть выбранный файл";
+"In File content, start Search Content when no text is left" = "В поле «Содержимое файла» запустить «Искать в содержимом», когда текста не осталось";
+"Show the selected file in Finder" = "Показать выбранный файл в Finder";
+"Show or close Quick Look" = "Открыть или закрыть быстрый просмотр";
+"Copy the path of the selected file" = "Скопировать путь выбранного файла";
+"Clear the search text, then the filters" = "Очистить текст поиска, затем фильтры";
+"Open a new window" = "Открыть новое окно";
+"Show or hide the inspector" = "Показать или скрыть инспектор";
+"Hide or show invisible files" = "Скрыть или показать невидимые файлы";
+"Open Settings" = "Открыть настройки";
+"Quit Wherever" = "Завершить Wherever";
+"Wherever search" = "Поиск Wherever";
+"Open or close Wherever search" = "Открыть или закрыть поиск Wherever";
+"Open the selected file and close Wherever search" = "Открыть выбранный файл и закрыть поиск Wherever";
+"Show the selected file in Finder and close Wherever search" = "Показать выбранный файл в Finder и закрыть поиск Wherever";
+"Show or close the preview" = "Показать или закрыть просмотр";
+"Show all results in a Wherever window" = "Показать все результаты в окне Wherever";
+"Clear the search text, then close Wherever search" = "Очистить текст поиска, затем закрыть поиск Wherever";
+"Close Wherever search" = "Закрыть поиск Wherever";
+"Show archive contents" = "Показать содержимое архива";
+"Show archive contents in Wherever" = "Показать содержимое архива в Wherever";
+"Archive window" = "Окно архива";
+"Open the item, the folder or the archive" = "Открыть объект, папку или архив";
+"Go to the enclosing folder" = "Перейти на уровень выше";
+"Show the archive in Finder" = "Показать архив в Finder";
+"Copy the path inside the archive" = "Скопировать путь внутри архива";
+"Clear the search text" = "Очистить текст поиска";
+"Delete the selected items" = "Удалить выбранные объекты";
+"Save the changes" = "Сохранить изменения";
+"Save the archive under a new name" = "Сохранить архив под новым именем";
+"Undo the last change" = "Отменить последнее изменение";
+"Redo the last change" = "Повторить последнее изменение";
+"Search operators" = "Операторы поиска";
+"Names that hold the word, its letters side by side" = "Имена, содержащие слово, буквы подряд";
+"Names that hold these exact letters" = "Имена с точно этими буквами";
+"Names that begin with the word" = "Имена, начинающиеся со слова";
+"Names that end with the word" = "Имена, оканчивающиеся словом";
+"Names that are exactly the word" = "Имена, точно равные слову";
+"Leave out names that hold the word" = "Исключить имена, содержащие слово";
+"Search the words together, space included" = "Искать слова вместе, с пробелом";
+"Names inside a folder whose name matches the first word" = "Имена в папке, имя которой совпадает с первым словом";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "Имена целиком: * означает любые символы, ? один символ. Чтобы найти * или ? как символы, сначала введите '";
+"Files with one of these extensions" = "Файлы с одним из этих расширений";
+"Leave out files with this extension" = "Исключить файлы с этим расширением";
+"Images; also video, audio, doc, code, archive, font and app" = "Изображения; также video, audio, doc, code, archive, font и app";
+"Folders only; also file and link" = "Только папки; также file и link";
+"Only inside this folder" = "Только в этой папке";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "Размер в kb, mb, gb или tb; также <1mb и 1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "Изменённые за s, m (минуты), h, d, w, mo или y; также 1w..1mo";
+"The same as modified:" = "То же, что modified:";
+"Leave out invisible files" = "Исключить невидимые файлы";
+"Names that match a regular expression" = "Имена, совпадающие с регулярным выражением";
+"Whole names that match a pattern of *, ? and [ ]" = "Целые имена, совпадающие с шаблоном из *, ? и [ ]";
+"Names that begin with this text" = "Имена, начинающиеся с этого текста";
+"Names that end with this text" = "Имена, оканчивающиеся этим текстом";
+"Names that are exactly this text" = "Имена, точно равные этому тексту";

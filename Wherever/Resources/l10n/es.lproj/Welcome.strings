@@ -1,0 +1,30 @@
+/*
+  Welcome.strings
+  Wherever
+
+  Español
+*/
+
+"Welcome to Wherever" = "Te damos la bienvenida a Wherever";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "El acceso total al disco permite que Wherever vea todas las carpetas de este Mac para encontrar cualquier archivo.";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "Wherever lee nombres, tamaños y fechas de archivos y, en el modo Normal, las palabras dentro de tus archivos. Nada sale de tu Mac.";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "En Privacidad y seguridad, dentro de Acceso total al disco, activa Wherever.";
+"Quit and reopen Wherever so it can search every folder." = "Sal de Wherever y vuelve a abrirlo para que busque en todas las carpetas.";
+"Open System Settings" = "Abrir Ajustes del Sistema";
+"Let's Go!" = "¡Vamos!";
+"Full Disk Access is on. Wherever is ready to start." = "El acceso total al disco está activado. Wherever está listo para empezar.";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "El acceso total al disco sigue desactivado. En Ajustes del Sistema > Privacidad y seguridad > Acceso total al disco, activa esta copia de Wherever.";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "Wherever no pudo comprobar el acceso total al disco. Volverá a intentarlo. Si el problema continúa, sal de Wherever y vuelve a abrirlo.";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "No se pudo abrir Ajustes del Sistema. Ábrelo desde el menú Apple y elige Privacidad y seguridad > Acceso total al disco.";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "Wherever no pudo iniciar la búsqueda. Sal de Wherever, vuelve a abrirlo e inténtalo de nuevo.";
+"Welcome to Wherever!" = "¡Te damos la bienvenida a Wherever!";
+"Wherever it is, find it." = "Esté donde esté, encuéntralo.";
+"Back" = "Atrás";
+"Next" = "Siguiente";
+"Choose Your Mode" = "Elige tu modo";
+"You can change it later in the View menu." = "Puedes cambiarlo más tarde en el menú Visualización.";
+"Set Up Wherever" = "Configurar Wherever";
+"You can change these later in Settings." = "Puedes cambiarlos más tarde en Ajustes.";
+"Launcher shortcut" = "Atajo del lanzador";
+"You’re All Set" = "Todo listo";
+"Step %lld of %lld" = "Paso %1$lld de %2$lld";

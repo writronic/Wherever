@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  Polski
+*/
+
+"Search folder:" = "Folder wyszukiwania:";
+"File name:" = "Nazwa pliku:";
+"File content:" = "Zawartość pliku:";
+"File name match" = "Dopasowanie nazwy pliku";
+"File content match" = "Dopasowanie zawartości pliku";
+"Search terms separated by the Enter key" = "Oddzielaj wyszukiwane słowa klawiszem Enter";
+"Contains" = "Zawiera";
+"Matches" = "Pasuje do";
+"Begins with" = "Zaczyna się od";
+"Ends with" = "Kończy się na";
+"Extension" = "Rozszerzenie";
+"Wildcard" = "Symbol wieloznaczny";
+"Regex" = "Wyrażenie regularne";
+"Find all terms" = "Znajdź wszystkie słowa";
+"Find any term" = "Znajdź dowolne słowo";
+"Search Content" = "Szukaj w treści";
+"Stop" = "Zatrzymaj";
+"Every indexed disk" = "Wszystkie zindeksowane dyski";
+"%@ (Not indexed)" = "%@ (niezindeksowany)";
+"%@ (Can’t be indexed)" = "%@ (nie można zindeksować)";
+"Index “%@”?" = "Zindeksować „%@”?";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever odczytuje każdą nazwę pliku na tym dysku, zanim będzie mógł go przeszukać. Duży dysk może zająć kilka minut. Aby znów go pomijać, dodaj go do Wykluczonych ścieżek w Ustawieniach.";
+"Index" = "Indeksuj";
+"Cancel" = "Anuluj";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "Znajduje pliki zawierające te słowa. Gdy folder wyszukiwania jest pusty, odczytuje wszystkie zindeksowane dyski; wpisz lub wybierz dysk albo folder, aby szukać w nim.";
+"Not Now" = "Nie teraz";
+"Browse…" = "Przeglądaj…";
+"Choose" = "Wybierz";
+"Choose a folder to search in" = "Wybierz folder do przeszukania";
+"Choose a disk" = "Wybierz dysk";

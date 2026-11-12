@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Name" = "Ad";
+"Folder" = "Klasör";
+"Size" = "Büyüklük";
+"Modified" = "Değiştirilme";
+"Kind" = "Tür";
+"Open" = "Aç";
+"Show Archive Contents" = "Arşiv İçeriğini Göster";
+"Show in Finder" = "Finder’da Göster";
+"Quick Look" = "Göz At";
+"Copy Path" = "Yol Adı Olarak Kopyala";
+"No results" = "Sonuç yok";
+"Show all in Wherever" = "Wherever’da tümünü göster";
+"Created" = "Yaratılış";
+"Opened" = "Açılış";
+"Keep Folders on Top" = "Klasörleri en üstte tut";
+"Search failed. Try again." = "Arama başarısız oldu. Yeniden deneyin.";
+"%@ is not indexed" = "%@ için dizin oluşturulmadı";
+"Manage…" = "Yönet…";
+"Finishing the index…" = "Dizin tamamlanıyor…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Wherever dizini oluşturamadı. Wherever menüsünden “Wherever’dan Çık” öğesini seçin, sonra Wherever’ı yeniden açın.";
+"Could not read %@" = "%@ okunamadı";
+"Live updates are off for %@" = "%@ için canlı güncelleme kapalı";

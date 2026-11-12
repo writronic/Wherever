@@ -1,0 +1,23 @@
+/*
+  Inspector.strings
+  Wherever
+
+  English (Base Language)
+*/
+
+"Show Inspector" = "Show Inspector";
+"Hide Inspector" = "Hide Inspector";
+"Show inspector" = "Show inspector";
+"No Selection" = "No Selection";
+"Information" = "Information";
+"Preview" = "Preview";
+"Where" = "Where";
+"Created" = "Created";
+"Owner" = "Owner";
+"Permissions" = "Permissions";
+"Read & Write" = "Read & Write";
+"Read only" = "Read only";
+"Write only" = "Write only";
+"No access" = "No access";
+"%@ · %@" = "%@ · %@";
+"In iCloud" = "In iCloud";

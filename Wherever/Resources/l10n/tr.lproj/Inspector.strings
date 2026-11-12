@@ -1,0 +1,23 @@
+/*
+  Inspector.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Show Inspector" = "Denetçiyi Göster";
+"Hide Inspector" = "Denetçiyi Gizle";
+"Show inspector" = "Denetçiyi göster";
+"No Selection" = "Seçim Yok";
+"Information" = "Bilgi";
+"Preview" = "Ön İzleme";
+"Where" = "Konum";
+"Created" = "Oluşturma";
+"Owner" = "Sahip";
+"Permissions" = "İzinler";
+"Read & Write" = "Okuma ve Yazma";
+"Read only" = "Yalnızca okuma";
+"Write only" = "Yalnızca yazma";
+"No access" = "Erişim yok";
+"%@ · %@" = "%@ · %@";
+"In iCloud" = "iCloud’da";

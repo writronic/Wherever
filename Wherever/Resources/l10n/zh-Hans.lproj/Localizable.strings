@@ -1,0 +1,23 @@
+/*
+  Localizable.strings
+  Wherever
+
+  简体中文
+*/
+
+"Search files" = "搜索文件";
+"Starting" = "正在启动";
+"Loading the saved index" = "正在载入已存储的索引";
+"Indexing the disk" = "正在为磁盘建立索引";
+"Indexing %@" = "正在索引 %@";
+"Ready" = "就绪";
+"Live updates on" = "实时更新已开启";
+"Live updates paused" = "实时更新已暂停";
+"Click to pause live updates" = "点按以暂停实时更新";
+"Click to resume live updates" = "点按以恢复实时更新";
+"Files: %@" = "文件：%@";
+"Search: %@ – %@" = "搜索：%@ – %@";
+"Simple" = "简单";
+"Normal" = "标准";
+"Hide Invisible Files" = "隐藏不可见文件";
+"Folder not found" = "未找到文件夹";

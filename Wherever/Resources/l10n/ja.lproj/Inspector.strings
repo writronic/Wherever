@@ -1,0 +1,23 @@
+/*
+  Inspector.strings
+  Wherever
+
+  日本語
+*/
+
+"Show Inspector" = "インスペクタを表示";
+"Hide Inspector" = "インスペクタを非表示";
+"Show inspector" = "インスペクタを表示";
+"No Selection" = "選択なし";
+"Information" = "情報";
+"Preview" = "プレビュー";
+"Where" = "場所";
+"Created" = "作成日";
+"Owner" = "所有者";
+"Permissions" = "アクセス権";
+"Read & Write" = "読み/書き";
+"Read only" = "読み出しのみ";
+"Write only" = "書き込みのみ";
+"No access" = "アクセス不可";
+"%@ · %@" = "%@ · %@";
+"In iCloud" = "iCloud内";

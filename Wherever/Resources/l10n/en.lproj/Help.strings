@@ -1,0 +1,67 @@
+/*
+  Help.strings
+  Wherever
+
+  English (Base Language)
+  The English sentence is the lookup key. Every value equals its key.
+*/
+
+"Keyboard Shortcuts" = "Keyboard Shortcuts";
+"Search window" = "Search window";
+"Move through the results" = "Move through the results";
+"Open the selected file" = "Open the selected file";
+"In File content, start Search Content when no text is left" = "In File content, start Search Content when no text is left";
+"Show the selected file in Finder" = "Show the selected file in Finder";
+"Show or close Quick Look" = "Show or close Quick Look";
+"Copy the path of the selected file" = "Copy the path of the selected file";
+"Clear the search text, then the filters" = "Clear the search text, then the filters";
+"Open a new window" = "Open a new window";
+"Show or hide the inspector" = "Show or hide the inspector";
+"Hide or show invisible files" = "Hide or show invisible files";
+"Open Settings" = "Open Settings";
+"Quit Wherever" = "Quit Wherever";
+"Wherever search" = "Wherever search";
+"Open or close Wherever search" = "Open or close Wherever search";
+"Open the selected file and close Wherever search" = "Open the selected file and close Wherever search";
+"Show the selected file in Finder and close Wherever search" = "Show the selected file in Finder and close Wherever search";
+"Show or close the preview" = "Show or close the preview";
+"Show all results in a Wherever window" = "Show all results in a Wherever window";
+"Clear the search text, then close Wherever search" = "Clear the search text, then close Wherever search";
+"Close Wherever search" = "Close Wherever search";
+"Show archive contents" = "Show archive contents";
+"Show archive contents in Wherever" = "Show archive contents in Wherever";
+"Archive window" = "Archive window";
+"Open the item, the folder or the archive" = "Open the item, the folder or the archive";
+"Go to the enclosing folder" = "Go to the enclosing folder";
+"Show the archive in Finder" = "Show the archive in Finder";
+"Copy the path inside the archive" = "Copy the path inside the archive";
+"Clear the search text" = "Clear the search text";
+"Delete the selected items" = "Delete the selected items";
+"Save the changes" = "Save the changes";
+"Save the archive under a new name" = "Save the archive under a new name";
+"Undo the last change" = "Undo the last change";
+"Redo the last change" = "Redo the last change";
+"Search operators" = "Search operators";
+"Names that hold the word, its letters side by side" = "Names that hold the word, its letters side by side";
+"Names that hold these exact letters" = "Names that hold these exact letters";
+"Names that begin with the word" = "Names that begin with the word";
+"Names that end with the word" = "Names that end with the word";
+"Names that are exactly the word" = "Names that are exactly the word";
+"Leave out names that hold the word" = "Leave out names that hold the word";
+"Search the words together, space included" = "Search the words together, space included";
+"Names inside a folder whose name matches the first word" = "Names inside a folder whose name matches the first word";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters";
+"Files with one of these extensions" = "Files with one of these extensions";
+"Leave out files with this extension" = "Leave out files with this extension";
+"Images; also video, audio, doc, code, archive, font and app" = "Images; also video, audio, doc, code, archive, font and app";
+"Folders only; also file and link" = "Folders only; also file and link";
+"Only inside this folder" = "Only inside this folder";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "Size in kb, mb, gb or tb; also <1mb and 1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo";
+"The same as modified:" = "The same as modified:";
+"Leave out invisible files" = "Leave out invisible files";
+"Names that match a regular expression" = "Names that match a regular expression";
+"Whole names that match a pattern of *, ? and [ ]" = "Whole names that match a pattern of *, ? and [ ]";
+"Names that begin with this text" = "Names that begin with this text";
+"Names that end with this text" = "Names that end with this text";
+"Names that are exactly this text" = "Names that are exactly this text";

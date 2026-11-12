@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  العربية
+*/
+
+"Press a shortcut…" = "اضغط على اختصار…";
+"Record Shortcut" = "تسجيل اختصار";
+"Launcher shortcut" = "اختصار المشغّل";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "انقر ثم اضغط على الاختصار الجديد. يلغي Escape التسجيل ويحذف Delete الاختصار.";
+"Hold Control, Option or Command with the key." = "اضغط على Control أو Option أو Command مع المفتاح.";
+"macOS already uses this shortcut." = "يستخدم macOS هذا الاختصار بالفعل.";
+"Wherever already uses this shortcut." = "يستخدم Wherever هذا الاختصار بالفعل.";
+"Use a letter, number or symbol key." = "استخدم مفتاح حرف أو رقم أو رمز.";
+"Wherever could not register this shortcut. Try another." = "تعذّر على Wherever تسجيل هذا الاختصار. جرّب اختصارًا آخر.";
+"Space" = "المسافة";

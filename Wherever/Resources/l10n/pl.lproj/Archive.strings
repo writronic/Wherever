@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  Polski
+*/
+
+"Enclosing Folder" = "Folder obejmujący";
+"Reading “%@”…" = "Odczytywanie „%@”…";
+"Items: %@" = "Rzeczy: %@";
+"Encrypted" = "Zaszyfrowane";
+"RAR archive" = "archiwum RAR";
+"Items whose names or links point outside the archive, and device files." = "Rzeczy, których nazwy lub dowiązania wskazują poza archiwum, oraz pliki urządzeń.";
+"The archive “%@” is empty." = "Archiwum „%@” jest puste.";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever nie może odczytać „%@”. Archiwum może być uszkodzone.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever nie może odczytać „%@”. Ma nieobsługiwany format.";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever nie może odczytać „%@”, ponieważ jest zaszyfrowane.";
+"Wherever can’t find “%@”." = "Wherever nie może znaleźć „%@”.";
+"“%@” changed on disk. Close this window and open it again." = "Plik „%@” zmienił się na dysku. Zamknij to okno i otwórz go ponownie.";
+"“%@” is open in another window. Close it first." = "Plik „%@” jest otwarty w innym oknie. Najpierw zamknij to okno.";
+"There isn’t enough space on “%@”. This needs %@ more." = "Za mało miejsca na „%@”. Potrzeba jeszcze %@.";
+"“%@” points outside the archive." = "„%@” wskazuje poza archiwum.";
+"Preparing “%@”…" = "Przygotowywanie „%@”…";
+"Wherever can’t copy “%@”." = "Wherever nie może skopiować „%@”.";
+"Opening “%@”…" = "Otwieranie „%@”…";
+"Enter the password for “%@”." = "Wprowadź hasło do „%@”.";
+"Password" = "Hasło";
+"OK" = "OK";
+"The password is incorrect. Try again." = "Hasło jest nieprawidłowe. Spróbuj ponownie.";
+"Expand Selected Items…" = "Rozpakuj zaznaczone rzeczy…";
+"Expand Archive…" = "Rozpakuj archiwum…";
+"Choose where to expand “%@”." = "Wybierz, gdzie rozpakować „%@”.";
+"Expand" = "Rozpakuj";
+"Expanding “%@”…" = "Rozpakowywanie „%@”…";
+"Stop expanding “%@”?" = "Przerwać rozpakowywanie „%@”?";
+"The items expanded so far will be removed." = "Rzeczy rozpakowane do tej pory zostaną usunięte.";
+"Stop Expanding" = "Przerwij rozpakowywanie";
+"Continue" = "Kontynuuj";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "Rzeczy, których nazwy lub dowiązania wskazują poza archiwum, pliki urządzeń oraz rzeczy, których Wherever nie mógł rozpakować.";
+"Search in “%@”" = "Szukaj w „%@”";
+"“%@” can’t be deleted because another item in the archive links to it." = "Nie można usunąć „%@”, ponieważ łączy się z tym inna rzecz w archiwum.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "To archiwum używa starego rodzaju szyfrowania, więc Wherever nie może go edytować.";
+"The archive would hold two items named “%@”." = "Archiwum zawierałoby dwie rzeczy o nazwie „%@”.";
+"Delete" = "Usuń";
+"Edited" = "Edytowany";
+"Read only" = "Tylko do odczytu";
+"Only .zip files and tarballs can be edited." = "Edytować można tylko pliki .zip i archiwa tar.";
+"Items in an archive inside another archive can’t be edited." = "Nie można edytować rzeczy w archiwum zawartym w innym archiwum.";
+"“%@” is locked." = "„%@” jest zablokowany.";
+"You don’t have permission to change “%@”." = "Nie masz uprawnień do zmiany „%@”.";
+"“%@” is on a read-only volume." = "„%@” znajduje się na woluminie tylko do odczytu.";
+"Add Files…" = "Dodaj pliki…";
+"Add" = "Dodaj";
+"Choose the items to add to “%@”." = "Wybierz rzeczy do dodania do „%@”.";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Rzecz o nazwie „%@” już istnieje w tym miejscu. Czy chcesz ją zastąpić rzeczą kopiowaną?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Folder o nazwie „%@” już istnieje w tym miejscu. Czy kopiowany folder ma go zastąpić?";
+"Replace" = "Zastąp";
+"Keep Both" = "Pozostaw obie";
+"Stop" = "Zatrzymaj";
+"Apply to All" = "Zastosuj do wszystkich";
+"Adding “%@”…" = "Dodawanie „%@”…";
+"Save" = "Zachowaj";
+"Save As…" = "Zachowaj jako…";
+"Saving “%@”…" = "Zachowywanie „%@”…";
+"The archive “%@” could not be saved. %@" = "Nie można zachować archiwum „%1$@”. %2$@";
+"Don’t Save" = "Nie zachowuj";
+"Do you want to save the changes made to the archive “%@”?" = "Czy chcesz zachować zmiany dokonane w archiwum „%@”?";
+"Your changes will be lost if you don’t save them." = "Zmiany zostaną utracone, jeśli ich nie zachowasz.";

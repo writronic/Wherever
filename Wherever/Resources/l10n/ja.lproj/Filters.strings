@@ -1,0 +1,36 @@
+/*
+  Filters.strings
+  Wherever
+
+  日本語
+*/
+
+"Extension (pdf, docx)" = "拡張子（pdf、docx）";
+"Extension" = "拡張子";
+"Kind" = "種類";
+"Size" = "サイズ";
+"Modified" = "変更日";
+"%@: %@" = "%@：%@";
+"Hide invisible files" = "不可視ファイルを隠す";
+"Any kind" = "すべての種類";
+"Files" = "ファイル";
+"Folders" = "フォルダ";
+"Links" = "リンク";
+"Images" = "画像";
+"Videos" = "ムービー";
+"Audio" = "オーディオ";
+"Documents" = "書類";
+"Code" = "コード";
+"Archives" = "アーカイブ";
+"Fonts" = "フォント";
+"Apps" = "アプリケーション";
+"Any size" = "すべてのサイズ";
+"Under 1 MB" = "1 MB 未満";
+"1 MB to 100 MB" = "1 MB から 100 MB";
+"100 MB to 1 GB" = "100 MB から 1 GB";
+"Over 1 GB" = "1 GB 超";
+"Any time" = "いつでも";
+"Last 24 hours" = "過去24時間";
+"Last 7 days" = "過去7日間";
+"Last 30 days" = "過去30日間";
+"Last 12 months" = "過去12か月間";

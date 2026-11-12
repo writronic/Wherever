@@ -1,0 +1,66 @@
+/*
+  Help.strings
+  Wherever
+
+  简体中文
+*/
+
+"Keyboard Shortcuts" = "键盘快捷键";
+"Search window" = "搜索窗口";
+"Move through the results" = "在结果中移动";
+"Open the selected file" = "打开所选文件";
+"In File content, start Search Content when no text is left" = "在“文件内容”中，没有剩余文本时开始“搜索内容”";
+"Show the selected file in Finder" = "在访达中显示所选文件";
+"Show or close Quick Look" = "打开或关闭快速查看";
+"Copy the path of the selected file" = "拷贝所选文件的路径";
+"Clear the search text, then the filters" = "清除搜索文本，然后清除过滤条件";
+"Open a new window" = "打开新窗口";
+"Show or hide the inspector" = "显示或隐藏检查器";
+"Hide or show invisible files" = "隐藏或显示不可见文件";
+"Open Settings" = "打开设置";
+"Quit Wherever" = "退出 Wherever";
+"Wherever search" = "Wherever 搜索";
+"Open or close Wherever search" = "打开或关闭 Wherever 搜索";
+"Open the selected file and close Wherever search" = "打开所选文件并关闭 Wherever 搜索";
+"Show the selected file in Finder and close Wherever search" = "在访达中显示所选文件并关闭 Wherever 搜索";
+"Show or close the preview" = "显示或关闭预览";
+"Show all results in a Wherever window" = "在 Wherever 窗口中显示所有结果";
+"Clear the search text, then close Wherever search" = "清除搜索文本，然后关闭 Wherever 搜索";
+"Close Wherever search" = "关闭 Wherever 搜索";
+"Show archive contents" = "显示归档内容";
+"Show archive contents in Wherever" = "在 Wherever 中显示归档内容";
+"Archive window" = "归档窗口";
+"Open the item, the folder or the archive" = "打开项目、文件夹或归档";
+"Go to the enclosing folder" = "前往上层文件夹";
+"Show the archive in Finder" = "在访达中显示归档";
+"Copy the path inside the archive" = "拷贝归档内的路径";
+"Clear the search text" = "清除搜索文本";
+"Delete the selected items" = "删除所选项目";
+"Save the changes" = "保存更改";
+"Save the archive under a new name" = "以新名称保存归档";
+"Undo the last change" = "撤销上次更改";
+"Redo the last change" = "重做上次更改";
+"Search operators" = "搜索运算符";
+"Names that hold the word, its letters side by side" = "包含该词（字母相连）的名称";
+"Names that hold these exact letters" = "包含这些确切字母的名称";
+"Names that begin with the word" = "以该词开头的名称";
+"Names that end with the word" = "以该词结尾的名称";
+"Names that are exactly the word" = "与该词完全相同的名称";
+"Leave out names that hold the word" = "排除包含该词的名称";
+"Search the words together, space included" = "连同空格一起搜索这些词";
+"Names inside a folder whose name matches the first word" = "位于名称与第一个词匹配的文件夹中的名称";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "匹配整个名称；* 代表任意字符，? 代表一个字符。要按字面查找 * 或 ?，请先输入 '";
+"Files with one of these extensions" = "带有其中一个扩展名的文件";
+"Leave out files with this extension" = "排除带有此扩展名的文件";
+"Images; also video, audio, doc, code, archive, font and app" = "图像；另有 video、audio、doc、code、archive、font 和 app";
+"Folders only; also file and link" = "仅文件夹；另有 file 和 link";
+"Only inside this folder" = "仅在此文件夹中";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "以 kb、mb、gb 或 tb 表示的大小；另有 <1mb 和 1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "在 s、m（分钟）、h、d、w、mo 或 y 内修改过；另有 1w..1mo";
+"The same as modified:" = "与 modified: 相同";
+"Leave out invisible files" = "排除不可见文件";
+"Names that match a regular expression" = "与正则表达式匹配的名称";
+"Whole names that match a pattern of *, ? and [ ]" = "整个名称与由 *、? 和 [ ] 组成的模式匹配";
+"Names that begin with this text" = "以此文本开头的名称";
+"Names that end with this text" = "以此文本结尾的名称";
+"Names that are exactly this text" = "与此文本完全相同的名称";

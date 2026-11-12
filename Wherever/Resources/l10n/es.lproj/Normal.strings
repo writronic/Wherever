@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  Español
+*/
+
+"Search folder:" = "Carpeta de búsqueda:";
+"File name:" = "Nombre de archivo:";
+"File content:" = "Contenido del archivo:";
+"File name match" = "Coincidencia del nombre de archivo";
+"File content match" = "Coincidencia del contenido del archivo";
+"Search terms separated by the Enter key" = "Separa los términos con la tecla Intro";
+"Contains" = "Contiene";
+"Matches" = "Coincide con";
+"Begins with" = "Empieza por";
+"Ends with" = "Termina en";
+"Extension" = "Extensión";
+"Wildcard" = "Comodín";
+"Regex" = "Expresión regular";
+"Find all terms" = "Buscar todos los términos";
+"Find any term" = "Buscar cualquier término";
+"Search Content" = "Buscar contenido";
+"Stop" = "Detener";
+"Every indexed disk" = "Todos los discos indexados";
+"%@ (Not indexed)" = "%@ (sin indexar)";
+"%@ (Can’t be indexed)" = "%@ (no se puede indexar)";
+"Index “%@”?" = "¿Indexar «%@»?";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever lee cada nombre de archivo de este disco antes de poder buscar en él. Un disco grande puede tardar varios minutos. Para volver a ignorarlo, añádelo a Rutas excluidas en Ajustes.";
+"Index" = "Indexar";
+"Cancel" = "Cancelar";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "Encuentra archivos que contienen estos términos. Con la carpeta de búsqueda vacía lee todos los discos indexados; escribe o elige un disco o una carpeta para buscar allí.";
+"Not Now" = "Ahora no";
+"Browse…" = "Explorar…";
+"Choose" = "Seleccionar";
+"Choose a folder to search in" = "Elige la carpeta donde buscar";
+"Choose a disk" = "Elige un disco";

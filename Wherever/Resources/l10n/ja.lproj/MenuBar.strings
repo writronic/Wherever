@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  日本語
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "Whereverを開く";
+"New Window" = "新規ウインドウ";
+"Settings…" = "設定…";
+"Donate…" = "寄付する…";
+"Check for Updates…" = "アップデートを確認…";
+"About Wherever" = "Whereverについて";
+"Quit Wherever" = "Whereverを終了";
+"Pause Live Updates" = "ライブ更新を一時停止";
+"Resume Live Updates" = "ライブ更新を再開";
+"Live Updates" = "ライブ更新";

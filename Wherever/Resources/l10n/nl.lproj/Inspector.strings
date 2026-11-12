@@ -1,0 +1,23 @@
+/*
+  Inspector.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Show Inspector" = "Toon inspecteur";
+"Hide Inspector" = "Verberg inspecteur";
+"Show inspector" = "Toon inspecteur";
+"No Selection" = "Geen selectie";
+"Information" = "Informatie";
+"Preview" = "Voorvertoning";
+"Where" = "Locatie";
+"Created" = "Aangemaakt";
+"Owner" = "Eigenaar";
+"Permissions" = "Toegangsrechten";
+"Read & Write" = "Lezen en schrijven";
+"Read only" = "Alleen lezen";
+"Write only" = "Alleen schrijven";
+"No access" = "Geen toegang";
+"%@ · %@" = "%@ · %@";
+"In iCloud" = "Op iCloud";

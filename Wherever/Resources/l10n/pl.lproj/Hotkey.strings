@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  Polski
+*/
+
+"Press a shortcut…" = "Naciśnij skrót…";
+"Record Shortcut" = "Nagraj skrót";
+"Launcher shortcut" = "Skrót launchera";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "Kliknij, a potem naciśnij nowy skrót. Escape anuluje, Delete usuwa.";
+"Hold Control, Option or Command with the key." = "Przytrzymaj Control, Option lub Command razem z klawiszem.";
+"macOS already uses this shortcut." = "macOS już używa tego skrótu.";
+"Wherever already uses this shortcut." = "Wherever już używa tego skrótu.";
+"Use a letter, number or symbol key." = "Użyj klawisza z literą, cyfrą lub symbolem.";
+"Wherever could not register this shortcut. Try another." = "Wherever nie mógł zarejestrować tego skrótu. Spróbuj innego.";
+"Space" = "Spacja";

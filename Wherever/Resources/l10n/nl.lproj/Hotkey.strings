@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Press a shortcut…" = "Druk op een toetscombinatie…";
+"Record Shortcut" = "Toetscombinatie opnemen";
+"Launcher shortcut" = "Launcher-toetscombinatie";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "Klik en druk daarna op de nieuwe toetscombinatie. Escape annuleert, Delete verwijdert.";
+"Hold Control, Option or Command with the key." = "Houd Control, Option of Command ingedrukt samen met de toets.";
+"macOS already uses this shortcut." = "macOS gebruikt deze toetscombinatie al.";
+"Wherever already uses this shortcut." = "Wherever gebruikt deze toetscombinatie al.";
+"Use a letter, number or symbol key." = "Gebruik een letter-, cijfer- of symbooltoets.";
+"Wherever could not register this shortcut. Try another." = "Wherever kon deze toetscombinatie niet registreren. Probeer een andere.";
+"Space" = "Spatiebalk";

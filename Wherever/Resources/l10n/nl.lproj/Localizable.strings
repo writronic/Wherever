@@ -1,0 +1,23 @@
+/*
+  Localizable.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Search files" = "Bestanden zoeken";
+"Starting" = "Starten";
+"Loading the saved index" = "Opgeslagen index laden";
+"Indexing the disk" = "Schijf indexeren";
+"Indexing %@" = "%@ wordt geïndexeerd";
+"Ready" = "Gereed";
+"Live updates on" = "Live bijwerken aan";
+"Live updates paused" = "Live bijwerken gepauzeerd";
+"Click to pause live updates" = "Klik om live bijwerken te pauzeren";
+"Click to resume live updates" = "Klik om live bijwerken te hervatten";
+"Files: %@" = "Bestanden: %@";
+"Search: %@ – %@" = "Zoeken: %@ – %@";
+"Simple" = "Eenvoudig";
+"Normal" = "Normaal";
+"Hide Invisible Files" = "Onzichtbare bestanden verbergen";
+"Folder not found" = "Map niet gevonden";

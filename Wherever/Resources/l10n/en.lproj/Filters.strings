@@ -1,0 +1,37 @@
+/*
+  Filters.strings
+  Wherever
+
+  English (Base Language)
+  The English sentence is the lookup key. Every value equals its key.
+*/
+
+"Extension (pdf, docx)" = "Extension (pdf, docx)";
+"Extension" = "Extension";
+"Kind" = "Kind";
+"Size" = "Size";
+"Modified" = "Modified";
+"%@: %@" = "%@: %@";
+"Hide invisible files" = "Hide invisible files";
+"Any kind" = "Any kind";
+"Files" = "Files";
+"Folders" = "Folders";
+"Links" = "Links";
+"Images" = "Images";
+"Videos" = "Videos";
+"Audio" = "Audio";
+"Documents" = "Documents";
+"Code" = "Code";
+"Archives" = "Archives";
+"Fonts" = "Fonts";
+"Apps" = "Apps";
+"Any size" = "Any size";
+"Under 1 MB" = "Under 1 MB";
+"1 MB to 100 MB" = "1 MB to 100 MB";
+"100 MB to 1 GB" = "100 MB to 1 GB";
+"Over 1 GB" = "Over 1 GB";
+"Any time" = "Any time";
+"Last 24 hours" = "Last 24 hours";
+"Last 7 days" = "Last 7 days";
+"Last 30 days" = "Last 30 days";
+"Last 12 months" = "Last 12 months";

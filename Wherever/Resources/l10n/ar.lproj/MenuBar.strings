@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  العربية
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "فتح Wherever";
+"New Window" = "نافذة جديدة";
+"Settings…" = "الإعدادات…";
+"Donate…" = "تبرّع…";
+"Check for Updates…" = "التحقق من وجود تحديثات…";
+"About Wherever" = "حول Wherever";
+"Quit Wherever" = "إنهاء Wherever";
+"Pause Live Updates" = "إيقاف التحديث المباشر مؤقتًا";
+"Resume Live Updates" = "استئناف التحديث المباشر";
+"Live Updates" = "التحديث المباشر";

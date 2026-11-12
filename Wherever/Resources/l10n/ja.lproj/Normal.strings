@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  日本語
+*/
+
+"Search folder:" = "検索フォルダ：";
+"File name:" = "ファイル名：";
+"File content:" = "ファイルの内容：";
+"File name match" = "ファイル名の一致方法";
+"File content match" = "ファイルの内容の一致方法";
+"Search terms separated by the Enter key" = "検索語はEnterキーで区切ります";
+"Contains" = "を含む";
+"Matches" = "と一致";
+"Begins with" = "で始まる";
+"Ends with" = "で終わる";
+"Extension" = "拡張子";
+"Wildcard" = "ワイルドカード";
+"Regex" = "正規表現";
+"Find all terms" = "すべての語を検索";
+"Find any term" = "いずれかの語を検索";
+"Search Content" = "内容を検索";
+"Stop" = "停止";
+"Every indexed disk" = "インデックス済みのすべてのディスク";
+"%@ (Not indexed)" = "%@（未インデックス）";
+"%@ (Can’t be indexed)" = "%@（インデックスを作成できません）";
+"Index “%@”?" = "“%@”をインデックスしますか？";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever はこのディスクを検索する前に、すべてのファイル名を読み込みます。大きなディスクでは数分かかることがあります。再び無視するには、設定の「除外されるパス」に追加してください。";
+"Index" = "インデックス";
+"Cancel" = "キャンセル";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "これらの語を含むファイルを探します。検索フォルダが空のときはインデックス済みのすべてのディスクを読み込みます。ディスクまたはフォルダを入力するか選ぶと、そこを検索します。";
+"Not Now" = "今はしない";
+"Browse…" = "参照…";
+"Choose" = "選択";
+"Choose a folder to search in" = "検索するフォルダを選択してください";
+"Choose a disk" = "ディスクを選択";

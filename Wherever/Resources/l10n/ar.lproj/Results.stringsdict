@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%lld results</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@results@</string>
+		<key>results</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>لا توجد نتائج</string>
+			<key>one</key>
+			<string>نتيجة واحدة</string>
+			<key>two</key>
+			<string>نتيجتان</string>
+			<key>few</key>
+			<string>%lld نتائج</string>
+			<key>many</key>
+			<string>%lld نتيجة</string>
+			<key>other</key>
+			<string>%lld نتيجة</string>
+		</dict>
+	</dict>
+	<key>Read %lld of %lld files</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>تمت قراءة %1$lld من %2$#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%2$lld ملف</string>
+			<key>one</key>
+			<string>ملف واحد</string>
+			<key>two</key>
+			<string>ملفين</string>
+			<key>few</key>
+			<string>%2$lld ملفات</string>
+			<key>many</key>
+			<string>%2$lld ملفًا</string>
+			<key>other</key>
+			<string>%2$lld ملف</string>
+		</dict>
+	</dict>
+	<key>Stopped after %lld of %lld files</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>توقف بعد قراءة %1$lld من %2$#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%2$lld ملف</string>
+			<key>one</key>
+			<string>ملف واحد</string>
+			<key>two</key>
+			<string>ملفين</string>
+			<key>few</key>
+			<string>%2$lld ملفات</string>
+			<key>many</key>
+			<string>%2$lld ملفًا</string>
+			<key>other</key>
+			<string>%2$lld ملف</string>
+		</dict>
+	</dict>
+	<key>%lld files not downloaded</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld ملف لم يتم تنزيله</string>
+			<key>one</key>
+			<string>ملف واحد لم يتم تنزيله</string>
+			<key>two</key>
+			<string>ملفان لم يتم تنزيلهما</string>
+			<key>few</key>
+			<string>%lld ملفات لم يتم تنزيلها</string>
+			<key>many</key>
+			<string>%lld ملفًا لم يتم تنزيلها</string>
+			<key>other</key>
+			<string>%lld ملف لم يتم تنزيله</string>
+		</dict>
+	</dict>
+	<key>%lld files in unsupported formats</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld ملف بتنسيق غير مدعوم</string>
+			<key>one</key>
+			<string>ملف واحد بتنسيق غير مدعوم</string>
+			<key>two</key>
+			<string>ملفان بتنسيق غير مدعوم</string>
+			<key>few</key>
+			<string>%lld ملفات بتنسيقات غير مدعومة</string>
+			<key>many</key>
+			<string>%lld ملفًا بتنسيقات غير مدعومة</string>
+			<key>other</key>
+			<string>%lld ملف بتنسيقات غير مدعومة</string>
+		</dict>
+	</dict>
+	<key>%lld disks are not indexed</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@disks@</string>
+		<key>disks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld قرص غير مفهرس</string>
+			<key>one</key>
+			<string>قرص واحد غير مفهرس</string>
+			<key>two</key>
+			<string>قرصان غير مفهرسين</string>
+			<key>few</key>
+			<string>%lld أقراص غير مفهرسة</string>
+			<key>many</key>
+			<string>%lld قرصًا غير مفهرس</string>
+			<key>other</key>
+			<string>%lld قرص غير مفهرس</string>
+		</dict>
+	</dict>
+	<key>%lld files skipped</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>تم تخطي %lld ملف</string>
+			<key>one</key>
+			<string>تم تخطي ملف واحد</string>
+			<key>two</key>
+			<string>تم تخطي ملفين</string>
+			<key>few</key>
+			<string>تم تخطي %lld ملفات</string>
+			<key>many</key>
+			<string>تم تخطي %lld ملفًا</string>
+			<key>other</key>
+			<string>تم تخطي %lld ملف</string>
+		</dict>
+	</dict>
+	<key>%lld items</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld عنصر</string>
+			<key>one</key>
+			<string>عنصر واحد</string>
+			<key>two</key>
+			<string>عنصران</string>
+			<key>few</key>
+			<string>%lld عناصر</string>
+			<key>many</key>
+			<string>%lld عنصرًا</string>
+			<key>other</key>
+			<string>%lld عنصر</string>
+		</dict>
+	</dict>
+	<key>Are you sure you want to open %lld items?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>هل تريد بالتأكيد فتح %#@items@؟</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld عنصر</string>
+			<key>one</key>
+			<string>عنصر واحد</string>
+			<key>two</key>
+			<string>عنصرين</string>
+			<key>few</key>
+			<string>%lld عناصر</string>
+			<key>many</key>
+			<string>%lld عنصرًا</string>
+			<key>other</key>
+			<string>%lld عنصر</string>
+		</dict>
+	</dict>
+	<key>Are you sure you want to show %lld items in Finder?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>هل تريد بالتأكيد إظهار %#@items@ في فايندر؟</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>%lld عنصر</string>
+			<key>one</key>
+			<string>عنصر واحد</string>
+			<key>two</key>
+			<string>عنصرين</string>
+			<key>few</key>
+			<string>%lld عناصر</string>
+			<key>many</key>
+			<string>%lld عنصرًا</string>
+			<key>other</key>
+			<string>%lld عنصر</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,66 @@
+/*
+  Help.strings
+  Wherever
+
+  Deutsch
+*/
+
+"Keyboard Shortcuts" = "Tastaturkurzbefehle";
+"Search window" = "Suchfenster";
+"Move through the results" = "Durch die Ergebnisse bewegen";
+"Open the selected file" = "Ausgewählte Datei öffnen";
+"In File content, start Search Content when no text is left" = "In „Dateiinhalt“ die Suche mit „Inhalt durchsuchen“ starten, wenn kein Text mehr übrig ist";
+"Show the selected file in Finder" = "Ausgewählte Datei im Finder zeigen";
+"Show or close Quick Look" = "Schnellansicht öffnen oder schließen";
+"Copy the path of the selected file" = "Pfad der ausgewählten Datei kopieren";
+"Clear the search text, then the filters" = "Erst den Suchtext, dann die Filter löschen";
+"Open a new window" = "Neues Fenster öffnen";
+"Show or hide the inspector" = "Inspektor ein- oder ausblenden";
+"Hide or show invisible files" = "Unsichtbare Dateien aus- oder einblenden";
+"Open Settings" = "Einstellungen öffnen";
+"Quit Wherever" = "Wherever beenden";
+"Wherever search" = "Wherever-Suche";
+"Open or close Wherever search" = "Wherever-Suche öffnen oder schließen";
+"Open the selected file and close Wherever search" = "Ausgewählte Datei öffnen und die Wherever-Suche schließen";
+"Show the selected file in Finder and close Wherever search" = "Ausgewählte Datei im Finder zeigen und die Wherever-Suche schließen";
+"Show or close the preview" = "Vorschau zeigen oder schließen";
+"Show all results in a Wherever window" = "Alle Ergebnisse in einem Wherever-Fenster zeigen";
+"Clear the search text, then close Wherever search" = "Erst den Suchtext löschen, dann die Wherever-Suche schließen";
+"Close Wherever search" = "Wherever-Suche schließen";
+"Show archive contents" = "Archivinhalt zeigen";
+"Show archive contents in Wherever" = "Archivinhalt in Wherever zeigen";
+"Archive window" = "Archivfenster";
+"Open the item, the folder or the archive" = "Objekt, Ordner oder Archiv öffnen";
+"Go to the enclosing folder" = "Zum übergeordneten Ordner wechseln";
+"Show the archive in Finder" = "Archiv im Finder zeigen";
+"Copy the path inside the archive" = "Pfad im Archiv kopieren";
+"Clear the search text" = "Suchtext löschen";
+"Delete the selected items" = "Ausgewählte Objekte löschen";
+"Save the changes" = "Änderungen sichern";
+"Save the archive under a new name" = "Archiv unter neuem Namen sichern";
+"Undo the last change" = "Letzte Änderung widerrufen";
+"Redo the last change" = "Letzte Änderung wiederholen";
+"Search operators" = "Suchoperatoren";
+"Names that hold the word, its letters side by side" = "Namen, die das Wort mit direkt aufeinanderfolgenden Buchstaben enthalten";
+"Names that hold these exact letters" = "Namen mit genau diesen Buchstaben";
+"Names that begin with the word" = "Namen, die mit dem Wort beginnen";
+"Names that end with the word" = "Namen, die mit dem Wort enden";
+"Names that are exactly the word" = "Namen, die genau dem Wort entsprechen";
+"Leave out names that hold the word" = "Namen mit dem Wort auslassen";
+"Search the words together, space included" = "Die Wörter zusammen suchen, samt Leerzeichen";
+"Names inside a folder whose name matches the first word" = "Namen in einem Ordner, dessen Name zum ersten Wort passt";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "Ganze Namen; * steht für beliebige Zeichen, ? für eines. Für * oder ? als Zeichen zuerst ' eingeben";
+"Files with one of these extensions" = "Dateien mit einer dieser Erweiterungen";
+"Leave out files with this extension" = "Dateien mit dieser Erweiterung auslassen";
+"Images; also video, audio, doc, code, archive, font and app" = "Bilder; auch video, audio, doc, code, archive, font und app";
+"Folders only; also file and link" = "Nur Ordner; auch file und link";
+"Only inside this folder" = "Nur in diesem Ordner";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "Größe in kb, mb, gb oder tb; auch <1mb und 1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "Geändert innerhalb von s, m (Minuten), h, d, w, mo oder y; auch 1w..1mo";
+"The same as modified:" = "Wie modified:";
+"Leave out invisible files" = "Unsichtbare Dateien auslassen";
+"Names that match a regular expression" = "Namen, die zu einem regulären Ausdruck passen";
+"Whole names that match a pattern of *, ? and [ ]" = "Ganze Namen, die zu einem Muster aus *, ? und [ ] passen";
+"Names that begin with this text" = "Namen, die mit diesem Text beginnen";
+"Names that end with this text" = "Namen, die mit diesem Text enden";
+"Names that are exactly this text" = "Namen, die genau diesem Text entsprechen";

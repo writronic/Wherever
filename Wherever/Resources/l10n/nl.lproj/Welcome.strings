@@ -1,0 +1,30 @@
+/*
+  Welcome.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Welcome to Wherever" = "Welkom bij Wherever";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "Met volledige schijftoegang kan Wherever elke map op deze Mac zien en elk bestand vinden.";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "Wherever leest bestandsnamen, groottes en datums, en in de modus Normaal de woorden in je bestanden. Er verlaat niets je Mac.";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "Zet onder 'Privacy en beveiliging' bij 'Volledige schijftoegang' Wherever aan.";
+"Quit and reopen Wherever so it can search every folder." = "Stop Wherever en open het opnieuw, zodat het in elke map kan zoeken.";
+"Open System Settings" = "Systeeminstellingen openen";
+"Let's Go!" = "Aan de slag!";
+"Full Disk Access is on. Wherever is ready to start." = "Volledige schijftoegang is ingeschakeld. Wherever is klaar om te starten.";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "Volledige schijftoegang is nog uitgeschakeld. Schakel deze kopie van Wherever in onder Systeeminstellingen > Privacy en beveiliging > Volledige schijftoegang.";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "Wherever kon de volledige schijftoegang niet controleren en probeert het opnieuw. Als dit blijft gebeuren, stop Wherever en open het opnieuw.";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "Systeeminstellingen kon niet worden geopend. Open het via het Apple-menu en kies Privacy en beveiliging > Volledige schijftoegang.";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "Wherever kon de zoekfunctie niet starten. Stop Wherever, open het opnieuw en probeer het nogmaals.";
+"Welcome to Wherever!" = "Welkom bij Wherever!";
+"Wherever it is, find it." = "Waar het ook is, vind het.";
+"Back" = "Vorige";
+"Next" = "Volgende";
+"Choose Your Mode" = "Kies je modus";
+"You can change it later in the View menu." = "Je kunt dit later wijzigen in het menu 'Weergave'.";
+"Set Up Wherever" = "Stel Wherever in";
+"You can change these later in Settings." = "Je kunt dit later wijzigen in Instellingen.";
+"Launcher shortcut" = "Launcher-toetscombinatie";
+"You’re All Set" = "Alles is klaar";
+"Step %lld of %lld" = "Stap %1$lld van %2$lld";

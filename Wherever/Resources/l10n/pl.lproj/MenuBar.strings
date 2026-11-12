@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  Polski
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "Otwórz Wherever";
+"New Window" = "Nowe okno";
+"Settings…" = "Ustawienia…";
+"Donate…" = "Wesprzyj…";
+"Check for Updates…" = "Sprawdź dostępność aktualizacji…";
+"About Wherever" = "O programie Wherever";
+"Quit Wherever" = "Zakończ Wherever";
+"Pause Live Updates" = "Wstrzymaj aktualizacje na żywo";
+"Resume Live Updates" = "Wznów aktualizacje na żywo";
+"Live Updates" = "Aktualizacje na żywo";

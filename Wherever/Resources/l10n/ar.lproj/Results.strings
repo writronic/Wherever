@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  العربية
+*/
+
+"Name" = "الاسم";
+"Folder" = "المجلد";
+"Size" = "الحجم";
+"Modified" = "تاريخ التعديل";
+"Kind" = "النوع";
+"Open" = "فتح";
+"Show Archive Contents" = "إظهار محتويات الأرشيف";
+"Show in Finder" = "إظهار في فايندر";
+"Quick Look" = "معاينة سريعة";
+"Copy Path" = "نسخ كاسم مسار";
+"No results" = "لا توجد نتائج";
+"Show all in Wherever" = "عرض الكل في Wherever";
+"Created" = "تاريخ الإنشاء";
+"Opened" = "تاريخ آخر فتح";
+"Keep Folders on Top" = "الاحتفاظ بالمجلدات في الأعلى";
+"Search failed. Try again." = "فشل البحث. حاول مرة أخرى.";
+"%@ is not indexed" = "%@ غير مفهرس";
+"Manage…" = "إدارة…";
+"Finishing the index…" = "جارٍ إنهاء الفهرس…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "تعذّر على Wherever إنشاء الفهرس. اختر «إنهاء Wherever» من قائمة Wherever، ثم أعد فتح Wherever.";
+"Could not read %@" = "تعذّرت قراءة %@";
+"Live updates are off for %@" = "التحديث المباشر متوقف لـ %@";

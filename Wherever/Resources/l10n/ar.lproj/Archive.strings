@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  العربية
+*/
+
+"Enclosing Folder" = "مجلد التضمين";
+"Reading “%@”…" = "جارٍ قراءة «%@»…";
+"Items: %@" = "العناصر: %@";
+"Encrypted" = "مشفّر";
+"RAR archive" = "أرشيف RAR";
+"Items whose names or links point outside the archive, and device files." = "العناصر التي يشير اسمها أو رابطها إلى خارج الأرشيف، وملفات الأجهزة.";
+"The archive “%@” is empty." = "الأرشيف «%@» فارغ.";
+"Wherever can’t read “%@”. The archive may be damaged." = "يتعذر على Wherever قراءة «%@». قد يكون الأرشيف تالفًا.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "يتعذر على Wherever قراءة «%@». تنسيقه غير مدعوم.";
+"Wherever can’t read “%@” because it is encrypted." = "يتعذر على Wherever قراءة «%@» لأنه مشفّر.";
+"Wherever can’t find “%@”." = "يتعذر على Wherever العثور على «%@».";
+"“%@” changed on disk. Close this window and open it again." = "تم تغيير «%@» على القرص. أغلق هذه النافذة وافتحه مرة أخرى.";
+"“%@” is open in another window. Close it first." = "«%@» مفتوح في نافذة أخرى. أغلق تلك النافذة أولاً.";
+"There isn’t enough space on “%@”. This needs %@ more." = "لا توجد مساحة كافية على «%@». يلزم %@ إضافية.";
+"“%@” points outside the archive." = "يشير «%@» إلى خارج الأرشيف.";
+"Preparing “%@”…" = "جارٍ تجهيز «%@»…";
+"Wherever can’t copy “%@”." = "يتعذر على Wherever نسخ «%@».";
+"Opening “%@”…" = "جارٍ فتح «%@»…";
+"Enter the password for “%@”." = "أدخل كلمة السر لـ «%@».";
+"Password" = "كلمة السر";
+"OK" = "حسنًا";
+"The password is incorrect. Try again." = "كلمة السر غير صحيحة. حاول مرة أخرى.";
+"Expand Selected Items…" = "توسيع العناصر المحددة…";
+"Expand Archive…" = "توسيع أرشيف…";
+"Choose where to expand “%@”." = "اختر مكان توسيع «%@».";
+"Expand" = "توسيع";
+"Expanding “%@”…" = "جارٍ توسيع «%@»…";
+"Stop expanding “%@”?" = "هل تريد إيقاف توسيع «%@»؟";
+"The items expanded so far will be removed." = "ستتم إزالة العناصر التي تم توسيعها حتى الآن.";
+"Stop Expanding" = "إيقاف التوسيع";
+"Continue" = "متابعة";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "العناصر التي يشير اسمها أو رابطها إلى خارج الأرشيف، وملفات الأجهزة، والعناصر التي تعذر على Wherever توسيعها.";
+"Search in “%@”" = "البحث في «%@»";
+"“%@” can’t be deleted because another item in the archive links to it." = "يتعذر حذف «%@» لأن عنصرًا آخر في الأرشيف مرتبط به.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "يستخدم هذا الأرشيف نوعًا قديمًا من التشفير، لذا لا يمكن لـ Wherever تعديله.";
+"The archive would hold two items named “%@”." = "سيحتوي الأرشيف على عنصرين باسم «%@».";
+"Delete" = "حذف";
+"Edited" = "تم التعديل";
+"Read only" = "للقراءة فقط";
+"Only .zip files and tarballs can be edited." = "يمكن تعديل ملفات .zip وأرشيفات tar فقط.";
+"Items in an archive inside another archive can’t be edited." = "لا يمكن تعديل العناصر الموجودة في أرشيف داخل أرشيف آخر.";
+"“%@” is locked." = "«%@» مقفل.";
+"You don’t have permission to change “%@”." = "ليس لديك إذن لتغيير «%@».";
+"“%@” is on a read-only volume." = "«%@» موجود على وحدة تخزين للقراءة فقط.";
+"Add Files…" = "إضافة ملفات…";
+"Add" = "إضافة";
+"Choose the items to add to “%@”." = "اختر العناصر المراد إضافتها إلى «%@».";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "يوجد بالفعل في هذا الموقع عنصر يسمى «%@». هل ترغب في استبداله بالعنصر الذي يتم نسخه؟";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "يوجد بالفعل في هذا الموقع مجلد يحمل الاسم «%@». هل ترغب في استبداله بالمجلد الذي يتم نسخه؟";
+"Replace" = "استبدال";
+"Keep Both" = "الاحتفاظ بالاثنين معًا";
+"Stop" = "إيقاف";
+"Apply to All" = "تطبيق على الكل";
+"Adding “%@”…" = "جارٍ إضافة «%@»…";
+"Save" = "حفظ";
+"Save As…" = "حفظ باسم…";
+"Saving “%@”…" = "جارٍ حفظ «%@»…";
+"The archive “%@” could not be saved. %@" = "تعذر حفظ الأرشيف «%1$@». %2$@";
+"Don’t Save" = "عدم الحفظ";
+"Do you want to save the changes made to the archive “%@”?" = "هل ترغب في حفظ التغييرات التي تمت في الأرشيف «%@»؟";
+"Your changes will be lost if you don’t save them." = "ستُفقد التغييرات التي قمت بإجرائها إذا لم تقم بحفظها.";

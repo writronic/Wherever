@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "Open Wherever";
+"New Window" = "Nieuw venster";
+"Settings…" = "Instellingen…";
+"Donate…" = "Doneren…";
+"Check for Updates…" = "Zoek naar updates…";
+"About Wherever" = "Over Wherever";
+"Quit Wherever" = "Stop Wherever";
+"Pause Live Updates" = "Live bijwerken pauzeren";
+"Resume Live Updates" = "Live bijwerken hervatten";
+"Live Updates" = "Live bijwerken";
