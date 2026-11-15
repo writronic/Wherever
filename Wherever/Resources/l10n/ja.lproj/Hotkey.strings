@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  日本語
+*/
+
+"Press a shortcut…" = "ショートカットを押してください…";
+"Record Shortcut" = "ショートカットを記録";
+"Launcher shortcut" = "ランチャーのショートカット";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "クリックしてから、新しいショートカットを押します。Escで取り消し、Deleteで削除します。";
+"Hold Control, Option or Command with the key." = "キーと一緒に、Control、Option、またはCommandを押してください。";
+"macOS already uses this shortcut." = "このショートカットはmacOSがすでに使用しています。";
+"Wherever already uses this shortcut." = "このショートカットはWhereverがすでに使用しています。";
+"Use a letter, number or symbol key." = "文字、数字、または記号のキーを使用してください。";
+"Wherever could not register this shortcut. Try another." = "Whereverはこのショートカットを登録できませんでした。別のショートカットを試してください。";
+"Space" = "スペース";

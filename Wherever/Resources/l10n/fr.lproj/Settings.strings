@@ -1,0 +1,113 @@
+/*
+  Settings.strings
+  Wherever
+
+  Français
+*/
+
+"Settings…" = "Réglages…";
+"General" = "Général";
+"Wherever could not change this. Check Login Items in System Settings." = "Wherever n’a pas pu modifier ce réglage. Vérifiez « Ouverture » dans les Réglages Système.";
+"Open Login Items" = "Ouvrir « Ouverture »";
+"Launcher shortcut" = "Raccourci du lanceur";
+"Press it in any app to search your files." = "Utilisez-le dans n’importe quelle app pour rechercher vos fichiers.";
+"Clear Open History…" = "Effacer l’historique d’ouverture…";
+"Files you open often rank higher in results." = "Les fichiers que vous ouvrez souvent apparaissent plus haut dans les résultats.";
+"Clear open history?" = "Effacer l’historique d’ouverture ?";
+"Wherever forgets which files you opened. Results no longer rank them higher." = "Wherever oublie les fichiers que vous avez ouverts. Ils ne remontent plus dans les résultats.";
+"Clear" = "Effacer";
+"Cancel" = "Annuler";
+"Wherever could not clear the open history." = "Wherever n’a pas pu effacer l’historique d’ouverture.";
+"Locations" = "Emplacements";
+"Excluded Paths" = "Chemins exclus";
+"Add excluded path" = "Ajouter un chemin d'accès exclu";
+"Remove excluded path" = "Supprimer le chemin exclu";
+"Wherever skips these paths and everything inside them. Search Content still reads one, or a folder inside it, when you choose it as the Search folder." = "Wherever ignore ces chemins et tout ce qu’ils contiennent. Rechercher le contenu lit malgré tout l’un d’eux, ou un dossier qu’il contient, quand vous le choisissez comme dossier de recherche.";
+"Other disks start in this list. Remove a disk to index it." = "Les autres disques commencent dans cette liste. Retirez un disque pour l’indexer.";
+"Wherever could not change the locations. Try again." = "Wherever n’a pas pu modifier les emplacements. Réessayez.";
+"Exclude" = "Exclure";
+"Choose a folder Wherever leaves out of the index." = "Choisissez un dossier que Wherever laisse hors de l’index.";
+"Startup" = "Démarrage";
+"Appearance" = "Apparence";
+"Open History" = "Historique d’ouverture";
+"Shortcut" = "Raccourci";
+"About" = "À propos";
+"Version %@" = "Version %@";
+"Copyright © 2026 Writronic. All rights reserved." = "Copyright © 2026 Writronic. Tous droits réservés.";
+
+"Starts the menu bar icon and the launcher shortcut when you log in, as you set them below." = "Démarre l’icône de la barre des menus et le raccourci du lanceur lorsque vous vous connectez, selon vos réglages ci-dessous.";
+"Open at Login" = "Ouvrir avec la session";
+"Allow Wherever in Login Items in System Settings." = "Autoriser Wherever sous « Ouverture » dans les Réglages Système.";
+
+"Reset Settings" = "Réinitialiser les réglages";
+"Reset all settings, saved indexes and open history (cannot be undone)" = "Réinitialise tous les réglages, les index enregistrés et l’historique d’ouverture (action irréversible)";
+"Reset All Settings?" = "Réinitialiser tous les réglages ?";
+"Wherever deletes your settings, saved indexes, and open history, and turns off Open at Login. Then it quits and reopens. You can’t undo this action." = "Wherever supprime vos réglages, les index enregistrés et l’historique d’ouverture, et désactive « Ouvrir avec la session ». Il quitte ensuite et se rouvre. Impossible d’annuler cette opération.";
+"Reset" = "Réinitialiser";
+"Wherever could not reset. Try again." = "Wherever n’a pas pu se réinitialiser. Réessayez.";
+
+"Export Settings…" = "Exporter les réglages…";
+"Import Settings…" = "Importer des réglages…";
+"Export Settings" = "Exporter les réglages";
+"Import Settings" = "Importer des réglages";
+"Export…" = "Exporter…";
+"Import…" = "Importer…";
+"Wherever Settings" = "Réglages Wherever";
+"Import settings?" = "Importer des réglages ?";
+"Wherever replaces your current settings with the ones in the file, then quits and reopens." = "Wherever remplace vos réglages actuels par ceux du fichier, puis quitte et se rouvre.";
+"Import" = "Importer";
+"This file is from a newer version of Wherever. Update Wherever, then try again." = "Ce fichier provient d’une version ultérieure de Wherever. Mettez à jour Wherever, puis réessayez.";
+"Wherever could not read this settings file." = "Wherever n’a pas pu lire ce fichier de réglages.";
+"Wherever could not export the settings." = "Wherever n’a pas pu exporter les réglages.";
+"Wherever could not reopen. The settings are saved and take effect when you quit and reopen Wherever." = "Wherever n’a pas pu se rouvrir. Les réglages sont enregistrés et prendront effet lorsque vous quitterez puis rouvrirez Wherever.";
+"Can’t be indexed: this disk has no UUID" = "Indexation impossible : ce disque n’a pas d’UUID";
+"This path isn’t valid" = "Ce chemin n’est pas valide";
+"The disk isn’t connected" = "Le disque n’est pas connecté";
+"When a disk that isn’t indexed is connected" = "Lors de la connexion d’un disque non indexé";
+"Ask in the Status Bar" = "Demander dans la barre d’état";
+"Ask with a Notification" = "Demander avec une notification";
+"Index Automatically" = "Indexer automatiquement";
+"Do Nothing" = "Ne rien faire";
+"Notifications for Wherever are turned off. Allow them in System Settings > Notifications." = "Les notifications de Wherever sont désactivées. Autorisez-les dans Réglages Système > Notifications.";
+"Exclude “%@”?" = "Exclure « %@ » ?";
+"Wherever won’t index %@ while this path is in the list." = "Wherever n’indexe pas %@ tant que ce chemin figure dans la liste.";
+"Remove “%@” to index this disk" = "Retirez « %@ » pour indexer ce disque";
+
+"Search" = "Recherche";
+"Typo-Tolerant Search" = "Recherche tolérante aux fautes de frappe";
+"When no name holds your letters side by side, also shows close matches, such as names with a typo." = "Si aucun nom ne contient vos lettres côte à côte, affiche aussi des correspondances proches, comme des noms avec une faute de frappe.";
+
+"System" = "Système";
+"Light" = "Clair";
+"Dark" = "Sombre";
+
+"Language" = "Langue";
+"System Default" = "Par défaut du système";
+"Restart Wherever?" = "Redémarrer Wherever ?";
+"The language change will take effect after restarting Wherever." = "Le changement de langue prendra effet après le redémarrage de Wherever.";
+"Restart Now" = "Redémarrer maintenant";
+"Later" = "Plus tard";
+"Software Updates" = "Mises à jour logicielles";
+"Automatically check for updates" = "Rechercher automatiquement des mises à jour";
+"Wherever search background opacity" = "Opacité de l’arrière-plan de la recherche Wherever";
+"Wherever search stays solid while Reduce transparency is on in System Settings > Accessibility." = "La recherche Wherever reste opaque tant que « Réduire la transparence » est activé dans Réglages Système > Accessibilité.";
+"Text size" = "Taille du texte";
+"%lld pt" = "%lld pt";
+"A" = "A";
+"Command-Line Tool" = "Outil de ligne de commande";
+"Install" = "Installer";
+"Uninstall" = "Désinstaller";
+"Search from the command line with the wherever command." = "Recherchez depuis la ligne de commande avec la commande wherever.";
+"Installed at %@." = "Installé dans %@.";
+"Open a new Terminal window to use it." = "Ouvrez une nouvelle fenêtre de Terminal pour l’utiliser.";
+"The wherever command is missing. Install it again." = "La commande wherever est introuvable. Installez-la à nouveau.";
+"Wherever could not install the command-line tool." = "Wherever n’a pas pu installer l’outil de ligne de commande.";
+"Wherever could not uninstall the command-line tool." = "Wherever n’a pas pu désinstaller l’outil de ligne de commande.";
+"Another program already uses %@. Remove it, then try again." = "Un autre programme utilise déjà %@. Supprimez-le, puis réessayez.";
+"Move Wherever to the Applications folder, then try again." = "Déplacez Wherever dans le dossier Applications, puis réessayez.";
+"Menu Bar" = "Barre des menus";
+"Show Menu Bar Icon" = "Afficher l’icône dans la barre des menus";
+"Shows a Wherever icon in the menu bar. Click it to open the launcher, or right-click it for a menu. If it does not appear, open System Settings and look in the Menu Bar section." = "Affiche une icône Wherever dans la barre des menus. Cliquez dessus pour ouvrir le lanceur, ou faites un clic droit pour afficher un menu. Si elle n’apparaît pas, ouvrez les Réglages Système et consultez la section « Barre des menus ».";
+"Made with ❤️" = "Réalisé avec ❤️";
+"Visit Website" = "Visiter le site web";
+"Donate" = "Faire un don";

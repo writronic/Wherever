@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.build/
+target/
+.swiftpm/
+/WhereverKit/Engine/*.xcframework
+/WhereverKit/Engine/wherever

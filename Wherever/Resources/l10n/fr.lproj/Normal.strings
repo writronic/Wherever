@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  Français
+*/
+
+"Search folder:" = "Dossier de recherche :";
+"File name:" = "Nom du fichier :";
+"File content:" = "Contenu du fichier :";
+"File name match" = "Correspondance du nom de fichier";
+"File content match" = "Correspondance du contenu du fichier";
+"Search terms separated by the Enter key" = "Séparez les termes avec la touche Entrée";
+"Contains" = "Contient";
+"Matches" = "Correspond à";
+"Begins with" = "Commence par";
+"Ends with" = "Se termine par";
+"Extension" = "Extension";
+"Wildcard" = "Caractères génériques";
+"Regex" = "Expression régulière";
+"Find all terms" = "Trouver tous les termes";
+"Find any term" = "Trouver un des termes";
+"Search Content" = "Rechercher le contenu";
+"Stop" = "Arrêter";
+"Every indexed disk" = "Tous les disques indexés";
+"%@ (Not indexed)" = "%@ (non indexé)";
+"%@ (Can’t be indexed)" = "%@ (indexation impossible)";
+"Index “%@”?" = "Indexer « %@ » ?";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever lit chaque nom de fichier de ce disque avant de pouvoir y chercher. Un grand disque peut prendre plusieurs minutes. Pour l’ignorer de nouveau, ajoutez-le aux Chemins exclus dans les Réglages.";
+"Index" = "Indexer";
+"Cancel" = "Annuler";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "Trouve les fichiers qui contiennent ces termes. Avec un dossier de recherche vide, il lit tous les disques indexés ; saisissez ou choisissez un disque ou un dossier pour y chercher.";
+"Not Now" = "Plus tard";
+"Browse…" = "Parcourir…";
+"Choose" = "Choisir";
+"Choose a folder to search in" = "Choisissez le dossier où chercher";
+"Choose a disk" = "Choisissez un disque";

@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  简体中文
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "打开 Wherever";
+"New Window" = "新建窗口";
+"Settings…" = "设置…";
+"Donate…" = "捐赠…";
+"Check for Updates…" = "检查更新…";
+"About Wherever" = "关于 Wherever";
+"Quit Wherever" = "退出 Wherever";
+"Pause Live Updates" = "暂停实时更新";
+"Resume Live Updates" = "恢复实时更新";
+"Live Updates" = "实时更新";

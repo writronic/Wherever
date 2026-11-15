@@ -1,0 +1,23 @@
+/*
+  Localizable.strings
+  Wherever
+
+  Français
+*/
+
+"Search files" = "Rechercher des fichiers";
+"Starting" = "Démarrage";
+"Loading the saved index" = "Chargement de l’index enregistré";
+"Indexing the disk" = "Indexation du disque";
+"Indexing %@" = "Indexation de %@";
+"Ready" = "Prêt";
+"Live updates on" = "Mises à jour en direct activées";
+"Live updates paused" = "Mises à jour en direct en pause";
+"Click to pause live updates" = "Cliquez pour suspendre les mises à jour en direct";
+"Click to resume live updates" = "Cliquez pour reprendre les mises à jour en direct";
+"Files: %@" = "Fichiers : %@";
+"Search: %@ – %@" = "Recherche : %@ – %@";
+"Simple" = "Simple";
+"Normal" = "Normal";
+"Hide Invisible Files" = "Masquer les fichiers invisibles";
+"Folder not found" = "Dossier introuvable";

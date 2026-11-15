@@ -1,0 +1,24 @@
+/*
+  Localizable.strings
+  Wherever
+
+  English (Base Language)
+  The English sentence is the lookup key. Every value equals its key.
+*/
+
+"Search files" = "Search files";
+"Starting" = "Starting";
+"Loading the saved index" = "Loading the saved index";
+"Indexing the disk" = "Indexing the disk";
+"Indexing %@" = "Indexing %@";
+"Ready" = "Ready";
+"Live updates on" = "Live updates on";
+"Live updates paused" = "Live updates paused";
+"Click to pause live updates" = "Click to pause live updates";
+"Click to resume live updates" = "Click to resume live updates";
+"Files: %@" = "Files: %@";
+"Search: %@ – %@" = "Search: %@ – %@";
+"Simple" = "Simple";
+"Normal" = "Normal";
+"Hide Invisible Files" = "Hide Invisible Files";
+"Folder not found" = "Folder not found";

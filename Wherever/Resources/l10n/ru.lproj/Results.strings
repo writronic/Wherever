@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  Русский
+*/
+
+"Name" = "Имя";
+"Folder" = "Папка";
+"Size" = "Размер";
+"Modified" = "Изменён";
+"Kind" = "Тип";
+"Open" = "Открыть";
+"Show Archive Contents" = "Показать содержимое архива";
+"Show in Finder" = "Показать в Finder";
+"Quick Look" = "Быстрый просмотр";
+"Copy Path" = "Скопировать путь";
+"No results" = "Нет результатов";
+"Show all in Wherever" = "Показать всё в Wherever";
+"Created" = "Создан";
+"Opened" = "Открыт";
+"Keep Folders on Top" = "Отображать папки вверху списка";
+"Search failed. Try again." = "Не удалось выполнить поиск. Повторите попытку.";
+"%@ is not indexed" = "%@ не проиндексирован";
+"Manage…" = "Управлять…";
+"Finishing the index…" = "Завершение индексации…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Wherever не удалось создать индекс. Выберите «Завершить Wherever» в меню Wherever и откройте Wherever снова.";
+"Could not read %@" = "Не удалось прочитать %@";
+"Live updates are off for %@" = "Обновления в реальном времени для %@ выключены";

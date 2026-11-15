@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Enclosing Folder" = "Bovenliggende map";
+"Reading “%@”…" = "‘%@’ wordt gelezen…";
+"Items: %@" = "Onderdelen: %@";
+"Encrypted" = "Versleuteld";
+"RAR archive" = "RAR-archief";
+"Items whose names or links point outside the archive, and device files." = "Onderdelen waarvan de naam of koppeling buiten het archief wijst, en apparaatbestanden.";
+"The archive “%@” is empty." = "Het archief ‘%@’ is leeg.";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever kan ‘%@’ niet lezen. Het archief is mogelijk beschadigd.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever kan ‘%@’ niet lezen. Het formaat wordt niet ondersteund.";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever kan ‘%@’ niet lezen, omdat het versleuteld is.";
+"Wherever can’t find “%@”." = "Wherever kan ‘%@’ niet vinden.";
+"“%@” changed on disk. Close this window and open it again." = "‘%@’ is op de schijf gewijzigd. Sluit dit venster en open het opnieuw.";
+"“%@” is open in another window. Close it first." = "‘%@’ is geopend in een ander venster. Sluit eerst dat venster.";
+"There isn’t enough space on “%@”. This needs %@ more." = "Er is niet genoeg ruimte op ‘%@’. Er is nog %@ nodig.";
+"“%@” points outside the archive." = "‘%@’ wijst naar een locatie buiten het archief.";
+"Preparing “%@”…" = "‘%@’ wordt voorbereid…";
+"Wherever can’t copy “%@”." = "Wherever kan ‘%@’ niet kopiëren.";
+"Opening “%@”…" = "‘%@’ wordt geopend…";
+"Enter the password for “%@”." = "Voer het wachtwoord voor ‘%@’ in.";
+"Password" = "Wachtwoord";
+"OK" = "OK";
+"The password is incorrect. Try again." = "Het wachtwoord is onjuist. Probeer het opnieuw.";
+"Expand Selected Items…" = "Pak geselecteerde onderdelen uit…";
+"Expand Archive…" = "Pak archief uit…";
+"Choose where to expand “%@”." = "Kies waar ‘%@’ moet worden uitgepakt.";
+"Expand" = "Pak uit";
+"Expanding “%@”…" = "‘%@’ wordt uitgepakt…";
+"Stop expanding “%@”?" = "Stoppen met uitpakken van ‘%@’?";
+"The items expanded so far will be removed." = "De tot nu toe uitgepakte onderdelen worden verwijderd.";
+"Stop Expanding" = "Stop uitpakken";
+"Continue" = "Ga door";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "Onderdelen waarvan de naam of koppeling buiten het archief wijst, apparaatbestanden en onderdelen die Wherever niet kon uitpakken.";
+"Search in “%@”" = "Zoek in ‘%@’";
+"“%@” can’t be deleted because another item in the archive links to it." = "‘%@’ kan niet worden verwijderd, omdat een ander onderdeel in het archief ernaar verwijst.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "Dit archief gebruikt een oude soort versleuteling, dus Wherever kan het niet bewerken.";
+"The archive would hold two items named “%@”." = "Het archief zou twee onderdelen met de naam ‘%@’ bevatten.";
+"Delete" = "Verwijder";
+"Edited" = "Bewerkt";
+"Read only" = "Alleen-lezen";
+"Only .zip files and tarballs can be edited." = "Alleen .zip-bestanden en tar-archieven kunnen worden bewerkt.";
+"Items in an archive inside another archive can’t be edited." = "Onderdelen in een archief binnen een ander archief kunnen niet worden bewerkt.";
+"“%@” is locked." = "‘%@’ is beveiligd.";
+"You don’t have permission to change “%@”." = "Je hebt geen toestemming om ‘%@’ te wijzigen.";
+"“%@” is on a read-only volume." = "‘%@’ staat op een alleen-lezen volume.";
+"Add Files…" = "Voeg bestanden toe…";
+"Add" = "Voeg toe";
+"Choose the items to add to “%@”." = "Kies de onderdelen die je aan ‘%@’ wilt toevoegen.";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Er bestaat al een onderdeel met de naam ‘%@’ op deze locatie. Wil je dit vervangen door het onderdeel dat je kopieert?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Er bestaat al een map met de naam ‘%@’ op deze locatie. Wil je die map vervangen door de map die je kopieert?";
+"Replace" = "Vervang";
+"Keep Both" = "Bewaar beide";
+"Stop" = "Stop";
+"Apply to All" = "Pas toe op alles";
+"Adding “%@”…" = "‘%@’ wordt toegevoegd…";
+"Save" = "Bewaar";
+"Save As…" = "Bewaar als…";
+"Saving “%@”…" = "‘%@’ wordt bewaard…";
+"The archive “%@” could not be saved. %@" = "Het archief ‘%1$@’ kon niet worden bewaard. %2$@";
+"Don’t Save" = "Bewaar niet";
+"Do you want to save the changes made to the archive “%@”?" = "Wil je de gemaakte wijzigingen in het archief ‘%@’ bewaren?";
+"Your changes will be lost if you don’t save them." = "Je wijzigingen gaan verloren als je ze niet bewaart.";

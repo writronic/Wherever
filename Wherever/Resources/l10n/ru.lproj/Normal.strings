@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  Русский
+*/
+
+"Search folder:" = "Папка поиска:";
+"File name:" = "Имя файла:";
+"File content:" = "Содержимое файла:";
+"File name match" = "Совпадение имени файла";
+"File content match" = "Совпадение содержимого файла";
+"Search terms separated by the Enter key" = "Разделяйте слова клавишей Enter";
+"Contains" = "Содержит";
+"Matches" = "Совпадает";
+"Begins with" = "Начинается с";
+"Ends with" = "Заканчивается на";
+"Extension" = "Расширение";
+"Wildcard" = "Шаблон";
+"Regex" = "Регулярное выражение";
+"Find all terms" = "Найти все слова";
+"Find any term" = "Найти любое слово";
+"Search Content" = "Искать в содержимом";
+"Stop" = "Остановить";
+"Every indexed disk" = "Все индексированные диски";
+"%@ (Not indexed)" = "%@ (не индексирован)";
+"%@ (Can’t be indexed)" = "%@ (нельзя проиндексировать)";
+"Index “%@”?" = "Индексировать «%@»?";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever читает все имена файлов на этом диске, прежде чем сможет искать на нём. Большой диск может занять несколько минут. Чтобы снова игнорировать его, добавьте его в «Исключенные пути» в Настройках.";
+"Index" = "Индексировать";
+"Cancel" = "Отмена";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "Находит файлы, содержащие эти слова. Если папка поиска пуста, читаются все индексированные диски; введите или выберите диск или папку, чтобы искать там.";
+"Not Now" = "Не сейчас";
+"Browse…" = "Обзор…";
+"Choose" = "Выбрать";
+"Choose a folder to search in" = "Выберите папку для поиска";
+"Choose a disk" = "Выберите диск";

@@ -1,0 +1,23 @@
+/*
+  Inspector.strings
+  Wherever
+
+  العربية
+*/
+
+"Show Inspector" = "إظهار المفتش";
+"Hide Inspector" = "إخفاء المفتش";
+"Show inspector" = "إظهار المفتش";
+"No Selection" = "لا يوجد تحديد";
+"Information" = "معلومات";
+"Preview" = "معاينة";
+"Where" = "الموقع";
+"Created" = "تاريخ الإنشاء";
+"Owner" = "المالك";
+"Permissions" = "الأذونات";
+"Read & Write" = "قراءة وكتابة";
+"Read only" = "قراءة فقط";
+"Write only" = "كتابة فقط";
+"No access" = "بلا وصول";
+"%@ · %@" = "%@ · %@";
+"In iCloud" = "في iCloud";

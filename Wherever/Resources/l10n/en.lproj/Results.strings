@@ -1,0 +1,30 @@
+/*
+  Results.strings
+  Wherever
+
+  English (Base Language)
+  The English sentence is the lookup key. Every value equals its key.
+*/
+
+"Name" = "Name";
+"Folder" = "Folder";
+"Size" = "Size";
+"Modified" = "Modified";
+"Kind" = "Kind";
+"Open" = "Open";
+"Show Archive Contents" = "Show Archive Contents";
+"Show in Finder" = "Show in Finder";
+"Quick Look" = "Quick Look";
+"Copy Path" = "Copy Path";
+"No results" = "No results";
+"Show all in Wherever" = "Show all in Wherever";
+"Created" = "Created";
+"Opened" = "Opened";
+"Keep Folders on Top" = "Keep Folders on Top";
+"Search failed. Try again." = "Search failed. Try again.";
+"%@ is not indexed" = "%@ is not indexed";
+"Manage…" = "Manage…";
+"Finishing the index…" = "Finishing the index…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again.";
+"Could not read %@" = "Could not read %@";
+"Live updates are off for %@" = "Live updates are off for %@";

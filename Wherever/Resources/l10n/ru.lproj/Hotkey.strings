@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  Русский
+*/
+
+"Press a shortcut…" = "Нажмите сочетание клавиш…";
+"Record Shortcut" = "Записать сочетание";
+"Launcher shortcut" = "Сочетание клавиш панели поиска";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "Нажмите кнопку, затем новое сочетание. Escape отменяет, Delete удаляет.";
+"Hold Control, Option or Command with the key." = "Удерживайте Control, Option или Command вместе с клавишей.";
+"macOS already uses this shortcut." = "macOS уже использует это сочетание.";
+"Wherever already uses this shortcut." = "Wherever уже использует это сочетание.";
+"Use a letter, number or symbol key." = "Используйте клавишу с буквой, цифрой или символом.";
+"Wherever could not register this shortcut. Try another." = "Wherever не удалось зарегистрировать это сочетание. Попробуйте другое.";
+"Space" = "Пробел";

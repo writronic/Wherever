@@ -1,0 +1,36 @@
+/*
+  Filters.strings
+  Wherever
+
+  简体中文
+*/
+
+"Extension (pdf, docx)" = "扩展名（pdf、docx）";
+"Extension" = "扩展名";
+"Kind" = "种类";
+"Size" = "大小";
+"Modified" = "修改时间";
+"%@: %@" = "%@：%@";
+"Hide invisible files" = "隐藏不可见文件";
+"Any kind" = "任何种类";
+"Files" = "文件";
+"Folders" = "文件夹";
+"Links" = "链接";
+"Images" = "图像";
+"Videos" = "影片";
+"Audio" = "音频";
+"Documents" = "文稿";
+"Code" = "代码";
+"Archives" = "归档";
+"Fonts" = "字体";
+"Apps" = "应用程序";
+"Any size" = "任何大小";
+"Under 1 MB" = "小于 1 MB";
+"1 MB to 100 MB" = "1 MB 至 100 MB";
+"100 MB to 1 GB" = "100 MB 至 1 GB";
+"Over 1 GB" = "大于 1 GB";
+"Any time" = "任何时间";
+"Last 24 hours" = "最近 24 小时";
+"Last 7 days" = "最近 7 天";
+"Last 30 days" = "最近 30 天";
+"Last 12 months" = "最近 12 个月";

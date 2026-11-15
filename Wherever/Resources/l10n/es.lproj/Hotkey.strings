@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  Español
+*/
+
+"Press a shortcut…" = "Pulsa un atajo…";
+"Record Shortcut" = "Grabar atajo";
+"Launcher shortcut" = "Atajo del lanzador";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "Haz clic y pulsa el nuevo atajo. Esc cancela y Eliminar lo borra.";
+"Hold Control, Option or Command with the key." = "Mantén pulsada Control, Opción o Comando junto con la tecla.";
+"macOS already uses this shortcut." = "macOS ya usa este atajo.";
+"Wherever already uses this shortcut." = "Wherever ya usa este atajo.";
+"Use a letter, number or symbol key." = "Usa una tecla de letra, número o símbolo.";
+"Wherever could not register this shortcut. Try another." = "Wherever no pudo registrar este atajo. Prueba con otro.";
+"Space" = "Espacio";

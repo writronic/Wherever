@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  Français
+*/
+
+"Enclosing Folder" = "Dossier parent";
+"Reading “%@”…" = "Lecture de « %@ »…";
+"Items: %@" = "Éléments : %@";
+"Encrypted" = "Chiffré";
+"RAR archive" = "Archive RAR";
+"Items whose names or links point outside the archive, and device files." = "Éléments dont le nom ou le lien pointe hors de l’archive, et fichiers de périphérique.";
+"The archive “%@” is empty." = "L’archive « %@ » est vide.";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever ne peut pas lire « %@ ». L’archive est peut-être endommagée.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever ne peut pas lire « %@ ». Son format n’est pas pris en charge.";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever ne peut pas lire « %@ », car elle est chiffrée.";
+"Wherever can’t find “%@”." = "Wherever ne trouve pas « %@ ».";
+"“%@” changed on disk. Close this window and open it again." = "« %@ » a été modifiée sur le disque. Fermez cette fenêtre et ouvrez-la à nouveau.";
+"“%@” is open in another window. Close it first." = "« %@ » est ouvert dans une autre fenêtre. Fermez d’abord cette fenêtre.";
+"There isn’t enough space on “%@”. This needs %@ more." = "Il n’y a pas assez d’espace sur « %@ ». Il faut %@ de plus.";
+"“%@” points outside the archive." = "« %@ » pointe hors de l’archive.";
+"Preparing “%@”…" = "Préparation de « %@ »…";
+"Wherever can’t copy “%@”." = "Wherever ne peut pas copier « %@ ».";
+"Opening “%@”…" = "Ouverture de « %@ »…";
+"Enter the password for “%@”." = "Saisissez le mot de passe de « %@ ».";
+"Password" = "Mot de passe";
+"OK" = "OK";
+"The password is incorrect. Try again." = "Le mot de passe est incorrect. Réessayez.";
+"Expand Selected Items…" = "Décompresser les éléments sélectionnés…";
+"Expand Archive…" = "Décompresser l’archive…";
+"Choose where to expand “%@”." = "Choisissez où décompresser « %@ ».";
+"Expand" = "Décompresser";
+"Expanding “%@”…" = "Décompression de « %@ »…";
+"Stop expanding “%@”?" = "Arrêter la décompression de « %@ » ?";
+"The items expanded so far will be removed." = "Les éléments décompressés jusqu’ici seront supprimés.";
+"Stop Expanding" = "Arrêter la décompression";
+"Continue" = "Continuer";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "Éléments dont le nom ou le lien pointe hors de l’archive, fichiers de périphérique et éléments que Wherever n’a pas pu décompresser.";
+"Search in “%@”" = "Rechercher dans « %@ »";
+"“%@” can’t be deleted because another item in the archive links to it." = "Impossible de supprimer « %@ », car un autre élément de l’archive y est lié.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "Cette archive utilise un ancien type de chiffrement : Wherever ne peut pas la modifier.";
+"The archive would hold two items named “%@”." = "L’archive contiendrait deux éléments nommés « %@ ».";
+"Delete" = "Supprimer";
+"Edited" = "Modifié";
+"Read only" = "Lecture seule";
+"Only .zip files and tarballs can be edited." = "Seuls les fichiers .zip et les archives tar peuvent être modifiés.";
+"Items in an archive inside another archive can’t be edited." = "Les éléments d’une archive contenue dans une autre archive ne peuvent pas être modifiés.";
+"“%@” is locked." = "« %@ » est verrouillé.";
+"You don’t have permission to change “%@”." = "Vous n’avez pas l’autorisation de modifier « %@ ».";
+"“%@” is on a read-only volume." = "« %@ » se trouve sur un volume en lecture seule.";
+"Add Files…" = "Ajouter des fichiers…";
+"Add" = "Ajouter";
+"Choose the items to add to “%@”." = "Choisissez les éléments à ajouter à « %@ ».";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Un élément nommé « %@ » existe déjà à cet emplacement. Souhaitez-vous le remplacer par celui que vous copiez ?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Un dossier intitulé « %@ » existe déjà à cet emplacement. Souhaitez-vous le remplacer par l’élément que vous copiez ?";
+"Replace" = "Remplacer";
+"Keep Both" = "Garder les deux";
+"Stop" = "Arrêter";
+"Apply to All" = "Appliquer à tous";
+"Adding “%@”…" = "Ajout de « %@ »…";
+"Save" = "Enregistrer";
+"Save As…" = "Enregistrer sous…";
+"Saving “%@”…" = "Enregistrement de « %@ »…";
+"The archive “%@” could not be saved. %@" = "L’archive « %1$@ » n’a pas pu être enregistrée. %2$@";
+"Don’t Save" = "Ne pas enregistrer";
+"Do you want to save the changes made to the archive “%@”?" = "Souhaitez-vous enregistrer les modifications apportées à l’archive « %@ » ?";
+"Your changes will be lost if you don’t save them." = "Vos modifications seront perdues si vous ne les enregistrez pas.";

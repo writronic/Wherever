@@ -1,0 +1,23 @@
+[package]
+name = "wherever-core"
+version = "0.1.0"
+edition = "2024"
+license = "GPL-3.0-or-later"
+publish = false
+
+[lib]
+crate-type = ["lib", "staticlib"]
+
+[dependencies]
+bzip2 = "=0.6.1"
+encoding_rs = "=0.8.42"
+flate2 = { version = "=1.1.10", default-features = false, features = ["zlib-rs"] }
+libc = "0.2"
+lopdf = { version = "=0.45.0", default-features = false }
+lzma-rust2 = { version = "=0.22.0", default-features = false, features = ["std", "xz"] }
+office_oxide = "=0.1.15"
+quick-xml = "=0.42.0"
+rayon = "1.12"
+regex = "1.13"
+uniffi = "=0.32.2"
+zip = { version = "=9.0.5", default-features = false, features = ["deflate", "aes-crypto", "bzip2", "deflate64", "lzma", "xz", "ppmd"] }

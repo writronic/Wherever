@@ -1,0 +1,36 @@
+/*
+  Filters.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Extension (pdf, docx)" = "Extensie (pdf, docx)";
+"Extension" = "Extensie";
+"Kind" = "Soort";
+"Size" = "Grootte";
+"Modified" = "Gewijzigd";
+"%@: %@" = "%@: %@";
+"Hide invisible files" = "Onzichtbare bestanden verbergen";
+"Any kind" = "Elke soort";
+"Files" = "Bestanden";
+"Folders" = "Mappen";
+"Links" = "Links";
+"Images" = "Afbeeldingen";
+"Videos" = "Video’s";
+"Audio" = "Audio";
+"Documents" = "Documenten";
+"Code" = "Code";
+"Archives" = "Archieven";
+"Fonts" = "Lettertypen";
+"Apps" = "Apps";
+"Any size" = "Elke grootte";
+"Under 1 MB" = "Minder dan 1 MB";
+"1 MB to 100 MB" = "1 MB tot 100 MB";
+"100 MB to 1 GB" = "100 MB tot 1 GB";
+"Over 1 GB" = "Meer dan 1 GB";
+"Any time" = "Elk moment";
+"Last 24 hours" = "Afgelopen 24 uur";
+"Last 7 days" = "Afgelopen 7 dagen";
+"Last 30 days" = "Afgelopen 30 dagen";
+"Last 12 months" = "Afgelopen 12 maanden";

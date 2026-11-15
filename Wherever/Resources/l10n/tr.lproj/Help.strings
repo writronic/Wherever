@@ -1,0 +1,66 @@
+/*
+  Help.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Keyboard Shortcuts" = "Klavye Kestirmeleri";
+"Search window" = "Arama penceresi";
+"Move through the results" = "Sonuçlar arasında gezin";
+"Open the selected file" = "Seçili dosyayı aç";
+"In File content, start Search Content when no text is left" = "“Dosya içeriği” alanında metin kalmadığında “İçerikte Ara” işlemini başlat";
+"Show the selected file in Finder" = "Seçili dosyayı Finder’da göster";
+"Show or close Quick Look" = "Göz At’ı aç veya kapat";
+"Copy the path of the selected file" = "Seçili dosyanın yolunu kopyala";
+"Clear the search text, then the filters" = "Önce arama metnini, sonra süzgeçleri temizle";
+"Open a new window" = "Yeni pencere aç";
+"Show or hide the inspector" = "Denetçiyi göster veya gizle";
+"Hide or show invisible files" = "Görünmez dosyaları gizle veya göster";
+"Open Settings" = "Ayarlar’ı aç";
+"Quit Wherever" = "Wherever’dan Çık";
+"Wherever search" = "Wherever araması";
+"Open or close Wherever search" = "Wherever aramasını aç veya kapat";
+"Open the selected file and close Wherever search" = "Seçili dosyayı aç ve Wherever aramasını kapat";
+"Show the selected file in Finder and close Wherever search" = "Seçili dosyayı Finder’da göster ve Wherever aramasını kapat";
+"Show or close the preview" = "Önizlemeyi göster veya kapat";
+"Show all results in a Wherever window" = "Tüm sonuçları bir Wherever penceresinde göster";
+"Clear the search text, then close Wherever search" = "Önce arama metnini temizle, sonra Wherever aramasını kapat";
+"Close Wherever search" = "Wherever aramasını kapat";
+"Show archive contents" = "Arşiv içeriğini göster";
+"Show archive contents in Wherever" = "Arşiv içeriğini Wherever’da göster";
+"Archive window" = "Arşiv penceresi";
+"Open the item, the folder or the archive" = "Öğeyi, klasörü veya arşivi aç";
+"Go to the enclosing folder" = "İçeren klasöre git";
+"Show the archive in Finder" = "Arşivi Finder’da göster";
+"Copy the path inside the archive" = "Arşivdeki yolu kopyala";
+"Clear the search text" = "Arama metnini temizle";
+"Delete the selected items" = "Seçili öğeleri sil";
+"Save the changes" = "Değişiklikleri kaydet";
+"Save the archive under a new name" = "Arşivi yeni bir adla kaydet";
+"Undo the last change" = "Son değişikliği geri al";
+"Redo the last change" = "Son değişikliği yinele";
+"Search operators" = "Arama işleçleri";
+"Names that hold the word, its letters side by side" = "Sözcüğü, harfleri yan yana olarak içeren adlar";
+"Names that hold these exact letters" = "Tam olarak bu harfleri içeren adlar";
+"Names that begin with the word" = "Sözcükle başlayan adlar";
+"Names that end with the word" = "Sözcükle biten adlar";
+"Names that are exactly the word" = "Tam olarak sözcüğe eşit adlar";
+"Leave out names that hold the word" = "Sözcüğü içeren adları dışarıda bırak";
+"Search the words together, space included" = "Sözcükleri boşlukla birlikte, bir arada ara";
+"Names inside a folder whose name matches the first word" = "Adı ilk sözcükle eşleşen bir klasörün içindeki adlar";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "Adın tamamı; * herhangi harfler, ? tek harf. * veya ? karakterini harf olarak bulmak için önce ' yazın";
+"Files with one of these extensions" = "Bu uzantılardan birine sahip dosyalar";
+"Leave out files with this extension" = "Bu uzantıya sahip dosyaları dışarıda bırak";
+"Images; also video, audio, doc, code, archive, font and app" = "Görüntüler; ayrıca video, audio, doc, code, archive, font ve app";
+"Folders only; also file and link" = "Yalnızca klasörler; ayrıca file ve link";
+"Only inside this folder" = "Yalnızca bu klasörün içinde";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "kb, mb, gb veya tb olarak boyut; ayrıca <1mb ve 1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "s, m (dakika), h, d, w, mo veya y içinde değişmiş; ayrıca 1w..1mo";
+"The same as modified:" = "modified: ile aynı";
+"Leave out invisible files" = "Görünmez dosyaları dışarıda bırak";
+"Names that match a regular expression" = "Bir düzenli ifadeyle eşleşen adlar";
+"Whole names that match a pattern of *, ? and [ ]" = "*, ? ve [ ] örüntüsüyle bütünüyle eşleşen adlar";
+"Names that begin with this text" = "Bu metinle başlayan adlar";
+"Names that end with this text" = "Bu metinle biten adlar";
+"Names that are exactly this text" = "Tam olarak bu metne eşit adlar";

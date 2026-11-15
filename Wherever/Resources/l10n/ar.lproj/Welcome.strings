@@ -1,0 +1,30 @@
+/*
+  Welcome.strings
+  Wherever
+
+  العربية
+*/
+
+"Welcome to Wherever" = "مرحبًا بك في Wherever";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "يتيح الوصول الكامل إلى القرص لتطبيق Wherever رؤية كل مجلد على هذا الـ Mac والعثور على أي ملف.";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "يقرأ Wherever أسماء الملفات وأحجامها وتواريخها، وفي الوضع العادي الكلمات داخل ملفاتك. لا يغادر أي شيء جهاز Mac لديك.";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "ضمن «الخصوصية والأمن»، في «الوصول الكامل إلى القرص»، فعّل Wherever.";
+"Quit and reopen Wherever so it can search every folder." = "أنهِ Wherever وأعد فتحه ليبحث في كل مجلد.";
+"Open System Settings" = "فتح إعدادات النظام";
+"Let's Go!" = "لنبدأ!";
+"Full Disk Access is on. Wherever is ready to start." = "الوصول الكامل إلى القرص مفعّل. Wherever جاهز للبدء.";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "الوصول الكامل إلى القرص لا يزال متوقفًا. في إعدادات النظام > الخصوصية والأمن > الوصول الكامل إلى القرص، فعّل هذه النسخة من Wherever.";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "تعذّر على Wherever التحقق من الوصول الكامل إلى القرص. سيحاول مرة أخرى. إذا استمر ذلك، فأنهِ Wherever وأعد فتحه.";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "تعذّر فتح إعدادات النظام. افتحها من قائمة Apple، ثم اختر الخصوصية والأمن > الوصول الكامل إلى القرص.";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "تعذّر على Wherever بدء البحث. أنهِ Wherever وأعد فتحه، ثم حاول مرة أخرى.";
+"Welcome to Wherever!" = "مرحبًا بك في Wherever!";
+"Wherever it is, find it." = "أينما كان، ستجده.";
+"Back" = "رجوع";
+"Next" = "التالي";
+"Choose Your Mode" = "اختر الوضع";
+"You can change it later in the View menu." = "يمكنك تغييره لاحقًا من قائمة «عرض».";
+"Set Up Wherever" = "إعداد Wherever";
+"You can change these later in Settings." = "يمكنك تغييرها لاحقًا من الإعدادات.";
+"Launcher shortcut" = "اختصار المشغّل";
+"You’re All Set" = "كل شيء جاهز";
+"Step %lld of %lld" = "الخطوة %1$lld من %2$lld";

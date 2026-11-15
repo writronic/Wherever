@@ -1,0 +1,23 @@
+/*
+  Localizable.strings
+  Wherever
+
+  日本語
+*/
+
+"Search files" = "ファイルを検索";
+"Starting" = "起動中";
+"Loading the saved index" = "保存済みのインデックスを読み込み中";
+"Indexing the disk" = "ディスクをインデックス作成中";
+"Indexing %@" = "%@ をインデックス中";
+"Ready" = "準備完了";
+"Live updates on" = "ライブ更新オン";
+"Live updates paused" = "ライブ更新一時停止中";
+"Click to pause live updates" = "クリックしてライブ更新を一時停止";
+"Click to resume live updates" = "クリックしてライブ更新を再開";
+"Files: %@" = "ファイル：%@";
+"Search: %@ – %@" = "検索：%@ – %@";
+"Simple" = "シンプル";
+"Normal" = "標準";
+"Hide Invisible Files" = "不可視ファイルを隠す";
+"Folder not found" = "フォルダが見つかりません";

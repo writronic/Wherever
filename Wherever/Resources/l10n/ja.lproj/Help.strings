@@ -1,0 +1,66 @@
+/*
+  Help.strings
+  Wherever
+
+  日本語
+*/
+
+"Keyboard Shortcuts" = "キーボードショートカット";
+"Search window" = "検索ウインドウ";
+"Move through the results" = "結果の中を移動";
+"Open the selected file" = "選択したファイルを開く";
+"In File content, start Search Content when no text is left" = "「ファイルの内容」でテキストが残っていないとき「内容を検索」を開始";
+"Show the selected file in Finder" = "選択したファイルをFinderに表示";
+"Show or close Quick Look" = "クイックルックを開く/閉じる";
+"Copy the path of the selected file" = "選択したファイルのパスをコピー";
+"Clear the search text, then the filters" = "検索テキストを消去し、次にフィルタを消去";
+"Open a new window" = "新規ウインドウを開く";
+"Show or hide the inspector" = "インスペクタを表示/非表示";
+"Hide or show invisible files" = "不可視ファイルを隠す/表示";
+"Open Settings" = "設定を開く";
+"Quit Wherever" = "Whereverを終了";
+"Wherever search" = "Wherever検索";
+"Open or close Wherever search" = "Wherever検索を開く/閉じる";
+"Open the selected file and close Wherever search" = "選択したファイルを開いてWherever検索を閉じる";
+"Show the selected file in Finder and close Wherever search" = "選択したファイルをFinderに表示してWherever検索を閉じる";
+"Show or close the preview" = "プレビューを表示/閉じる";
+"Show all results in a Wherever window" = "すべての結果をWhereverのウインドウに表示";
+"Clear the search text, then close Wherever search" = "検索テキストを消去し、次にWherever検索を閉じる";
+"Close Wherever search" = "Wherever検索を閉じる";
+"Show archive contents" = "アーカイブの内容を表示";
+"Show archive contents in Wherever" = "アーカイブの内容をWhereverで表示";
+"Archive window" = "アーカイブウインドウ";
+"Open the item, the folder or the archive" = "項目、フォルダ、またはアーカイブを開く";
+"Go to the enclosing folder" = "内包しているフォルダへ移動";
+"Show the archive in Finder" = "アーカイブをFinderに表示";
+"Copy the path inside the archive" = "アーカイブ内のパスをコピー";
+"Clear the search text" = "検索テキストを消去";
+"Delete the selected items" = "選択した項目を削除";
+"Save the changes" = "変更を保存";
+"Save the archive under a new name" = "アーカイブを別名で保存";
+"Undo the last change" = "最後の変更を取り消す";
+"Redo the last change" = "最後の変更をやり直す";
+"Search operators" = "検索演算子";
+"Names that hold the word, its letters side by side" = "その単語を、文字が連続した形で含む名前";
+"Names that hold these exact letters" = "この文字をそのまま含む名前";
+"Names that begin with the word" = "単語で始まる名前";
+"Names that end with the word" = "単語で終わる名前";
+"Names that are exactly the word" = "単語と完全に一致する名前";
+"Leave out names that hold the word" = "単語を含む名前を除外";
+"Search the words together, space included" = "スペースを含めて単語をまとめて検索";
+"Names inside a folder whose name matches the first word" = "最初の単語に一致する名前のフォルダ内にある名前";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "名前全体に一致。* は任意の文字列、? は 1 文字。* や ? を文字として探すには先頭に ' を入力";
+"Files with one of these extensions" = "これらの拡張子のいずれかを持つファイル";
+"Leave out files with this extension" = "この拡張子を持つファイルを除外";
+"Images; also video, audio, doc, code, archive, font and app" = "イメージ。ほかに video、audio、doc、code、archive、font、app";
+"Folders only; also file and link" = "フォルダのみ。ほかに file、link";
+"Only inside this folder" = "このフォルダ内のみ";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "kb、mb、gb、tb で指定するサイズ。ほかに <1mb、1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "s、m(分)、h、d、w、mo、y 以内に変更。ほかに 1w..1mo";
+"The same as modified:" = "modified: と同じ";
+"Leave out invisible files" = "不可視ファイルを除外";
+"Names that match a regular expression" = "正規表現に一致する名前";
+"Whole names that match a pattern of *, ? and [ ]" = "*、?、[ ] のパターンに名前全体が一致";
+"Names that begin with this text" = "このテキストで始まる名前";
+"Names that end with this text" = "このテキストで終わる名前";
+"Names that are exactly this text" = "このテキストと完全に一致する名前";

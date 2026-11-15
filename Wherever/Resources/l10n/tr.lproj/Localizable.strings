@@ -1,0 +1,23 @@
+/*
+  Localizable.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Search files" = "Dosya ara";
+"Starting" = "Başlatılıyor";
+"Loading the saved index" = "Kayıtlı dizin yükleniyor";
+"Indexing the disk" = "Disk dizinleniyor";
+"Indexing %@" = "%@ dizinleniyor";
+"Ready" = "Hazır";
+"Live updates on" = "Canlı güncelleme açık";
+"Live updates paused" = "Canlı güncelleme duraklatıldı";
+"Click to pause live updates" = "Canlı güncellemeyi duraklatmak için tıklayın";
+"Click to resume live updates" = "Canlı güncellemeyi sürdürmek için tıklayın";
+"Files: %@" = "Dosyalar: %@";
+"Search: %@ – %@" = "Arama: %@ – %@";
+"Simple" = "Basit";
+"Normal" = "Normal";
+"Hide Invisible Files" = "Görünmez dosyaları gizle";
+"Folder not found" = "Klasör bulunamadı";

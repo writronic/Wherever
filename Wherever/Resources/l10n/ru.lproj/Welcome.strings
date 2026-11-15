@@ -1,0 +1,30 @@
+/*
+  Welcome.strings
+  Wherever
+
+  Русский
+*/
+
+"Welcome to Wherever" = "Добро пожаловать в Wherever";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "«Доступ к диску» позволяет Wherever видеть все папки на этом Mac и находить любой файл.";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "Wherever читает имена, размеры и даты файлов, а в режиме «Обычный» ещё и слова внутри ваших файлов. Ничто не покидает ваш Mac.";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "В разделе «Конфиденциальность и безопасность» в пункте «Доступ к диску» включите Wherever.";
+"Quit and reopen Wherever so it can search every folder." = "Завершите работу Wherever и откройте его снова, чтобы он искал во всех папках.";
+"Open System Settings" = "Открыть Системные настройки";
+"Let's Go!" = "Начнём!";
+"Full Disk Access is on. Wherever is ready to start." = "Доступ к диску включён. Wherever готов к работе.";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "Доступ к диску всё ещё выключен. В разделе «Системные настройки» > «Конфиденциальность и безопасность» > «Доступ к диску» включите эту копию Wherever.";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "Wherever не удалось проверить доступ к диску. Проверка будет повторена. Если проблема останется, завершите работу Wherever и откройте его снова.";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "Не удалось открыть Системные настройки. Откройте их из меню Apple, затем выберите «Конфиденциальность и безопасность» > «Доступ к диску».";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "Wherever не удалось запустить поиск. Завершите работу Wherever, откройте его снова и повторите попытку.";
+"Welcome to Wherever!" = "Добро пожаловать в Wherever!";
+"Wherever it is, find it." = "Где бы ни был файл, найдите его.";
+"Back" = "Назад";
+"Next" = "Далее";
+"Choose Your Mode" = "Выберите режим";
+"You can change it later in the View menu." = "Позже его можно изменить в меню «Вид».";
+"Set Up Wherever" = "Настройка Wherever";
+"You can change these later in Settings." = "Позже их можно изменить в настройках.";
+"Launcher shortcut" = "Сочетание клавиш панели поиска";
+"You’re All Set" = "Всё готово";
+"Step %lld of %lld" = "Шаг %1$lld из %2$lld";

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%lld items skipped</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>تم تخطي %lld عنصر</string>
+			<key>one</key>
+			<string>تم تخطي عنصر واحد</string>
+			<key>two</key>
+			<string>تم تخطي عنصرين</string>
+			<key>few</key>
+			<string>تم تخطي %lld عناصر</string>
+			<key>many</key>
+			<string>تم تخطي %lld عنصرًا</string>
+			<key>other</key>
+			<string>تم تخطي %lld عنصر</string>
+		</dict>
+	</dict>
+	<key>Expanded %lld items</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>zero</key>
+			<string>تم توسيع %lld عنصر</string>
+			<key>one</key>
+			<string>تم توسيع عنصر واحد</string>
+			<key>two</key>
+			<string>تم توسيع عنصرين</string>
+			<key>few</key>
+			<string>تم توسيع %lld عناصر</string>
+			<key>many</key>
+			<string>تم توسيع %lld عنصرًا</string>
+			<key>other</key>
+			<string>تم توسيع %lld عنصر</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

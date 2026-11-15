@@ -1,0 +1,18 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  English (Base Language)
+  The English sentence is the lookup key. Every value equals its key.
+*/
+
+"Press a shortcut…" = "Press a shortcut…";
+"Record Shortcut" = "Record Shortcut";
+"Launcher shortcut" = "Launcher shortcut";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "Click, then press the new shortcut. Escape cancels. Delete removes it.";
+"Hold Control, Option or Command with the key." = "Hold Control, Option or Command with the key.";
+"macOS already uses this shortcut." = "macOS already uses this shortcut.";
+"Wherever already uses this shortcut." = "Wherever already uses this shortcut.";
+"Use a letter, number or symbol key." = "Use a letter, number or symbol key.";
+"Wherever could not register this shortcut. Try another." = "Wherever could not register this shortcut. Try another.";
+"Space" = "Space";

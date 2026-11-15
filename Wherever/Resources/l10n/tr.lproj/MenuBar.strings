@@ -1,0 +1,18 @@
+/*
+  MenuBar.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Wherever" = "Wherever";
+"Open Wherever" = "Wherever’ı Aç";
+"New Window" = "Yeni Pencere";
+"Settings…" = "Ayarlar…";
+"Donate…" = "Bağış Yap…";
+"Check for Updates…" = "Güncellemeleri Denetle…";
+"About Wherever" = "Wherever Hakkında";
+"Quit Wherever" = "Wherever’dan Çık";
+"Pause Live Updates" = "Canlı Güncellemeyi Duraklat";
+"Resume Live Updates" = "Canlı Güncellemeyi Sürdür";
+"Live Updates" = "Canlı Güncelleme";

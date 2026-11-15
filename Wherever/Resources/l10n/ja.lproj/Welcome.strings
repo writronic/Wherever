@@ -1,0 +1,30 @@
+/*
+  Welcome.strings
+  Wherever
+
+  日本語
+*/
+
+"Welcome to Wherever" = "Whereverへようこそ";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "フルディスクアクセスを許可すると、WhereverはこのMac上のすべてのフォルダを参照し、どのファイルでも見つけられます。";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "Whereverが読み取るのはファイル名、サイズ、日付と、標準モードではファイルの中の単語です。Macの外には何も送信されません。";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "「プライバシーとセキュリティ」の「フルディスクアクセス」で、Whereverをオンにします。";
+"Quit and reopen Wherever so it can search every folder." = "Whereverを終了して開き直すと、すべてのフォルダを検索できます。";
+"Open System Settings" = "システム設定を開く";
+"Let's Go!" = "始めましょう！";
+"Full Disk Access is on. Wherever is ready to start." = "フルディスクアクセスがオンになっています。Whereverを開始できます。";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "フルディスクアクセスがまだオフになっています。「システム設定」>「プライバシーとセキュリティ」>「フルディスクアクセス」で、このWhereverをオンにしてください。";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "Whereverはフルディスクアクセスを確認できませんでした。再度確認します。問題が続く場合は、Whereverを終了して開き直してください。";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "システム設定を開けませんでした。Appleメニューから開き、「プライバシーとセキュリティ」>「フルディスクアクセス」を選んでください。";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "Whereverは検索を開始できませんでした。Whereverを終了して開き直し、もう一度お試しください。";
+"Welcome to Wherever!" = "Whereverへようこそ！";
+"Wherever it is, find it." = "どこにあっても、見つかる。";
+"Back" = "戻る";
+"Next" = "次へ";
+"Choose Your Mode" = "モードを選択";
+"You can change it later in the View menu." = "あとで「表示」メニューから変更できます。";
+"Set Up Wherever" = "Whereverを設定";
+"You can change these later in Settings." = "これらはあとで設定から変更できます。";
+"Launcher shortcut" = "ランチャーのショートカット";
+"You’re All Set" = "準備完了";
+"Step %lld of %lld" = "ステップ %1$lld/%2$lld";

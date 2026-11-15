@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%lld items skipped</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>Пропущено объектов: %lld</string>
+			<key>few</key>
+			<string>Пропущено объектов: %lld</string>
+			<key>many</key>
+			<string>Пропущено объектов: %lld</string>
+			<key>other</key>
+			<string>Пропущено объектов: %lld</string>
+		</dict>
+	</dict>
+	<key>Expanded %lld items</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>Разархивировано объектов: %lld</string>
+			<key>few</key>
+			<string>Разархивировано объектов: %lld</string>
+			<key>many</key>
+			<string>Разархивировано объектов: %lld</string>
+			<key>other</key>
+			<string>Разархивировано объектов: %lld</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

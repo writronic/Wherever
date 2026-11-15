@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Search folder:" = "Arama klasörü:";
+"File name:" = "Dosya adı:";
+"File content:" = "Dosya içeriği:";
+"File name match" = "Dosya adı eşleşmesi";
+"File content match" = "Dosya içeriği eşleşmesi";
+"Search terms separated by the Enter key" = "Terimleri Enter tuşuyla ayırın";
+"Contains" = "İçerir";
+"Matches" = "Eşleşir";
+"Begins with" = "Şununla başlar";
+"Ends with" = "Şununla biter";
+"Extension" = "Uzantı";
+"Wildcard" = "Joker karakter";
+"Regex" = "Düzenli ifade";
+"Find all terms" = "Tüm terimleri bul";
+"Find any term" = "Herhangi bir terimi bul";
+"Search Content" = "İçerikte Ara";
+"Stop" = "Durdur";
+"Every indexed disk" = "Dizinlenen tüm diskler";
+"%@ (Not indexed)" = "%@ (Dizinlenmedi)";
+"%@ (Can’t be indexed)" = "%@ (Dizin oluşturulamaz)";
+"Index “%@”?" = "“%@” dizinlensin mi?";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever bu diskte arama yapabilmek için önce tüm dosya adlarını okur. Büyük bir disk birkaç dakika sürebilir. Yeniden yok saymak için diski Ayarlar’da Hariç Tutulan Yollar’a ekleyin.";
+"Index" = "Dizinle";
+"Cancel" = "Vazgeç";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "Bu sözcükleri içeren dosyaları bulur. Arama klasörü boşken dizinlenen tüm diskleri okur; orada aramak için bir disk veya klasör yazın ya da seçin.";
+"Not Now" = "Sonra";
+"Browse…" = "Gözat…";
+"Choose" = "Seç";
+"Choose a folder to search in" = "Aranacak klasörü seçin";
+"Choose a disk" = "Disk seçin";

@@ -1,0 +1,23 @@
+/*
+  Localizable.strings
+  Wherever
+
+  Русский
+*/
+
+"Search files" = "Поиск файлов";
+"Starting" = "Запуск";
+"Loading the saved index" = "Загрузка сохранённого индекса";
+"Indexing the disk" = "Индексация диска";
+"Indexing %@" = "Индексация: %@";
+"Ready" = "Готово";
+"Live updates on" = "Обновления в реальном времени включены";
+"Live updates paused" = "Обновления в реальном времени приостановлены";
+"Click to pause live updates" = "Нажмите, чтобы приостановить обновления в реальном времени";
+"Click to resume live updates" = "Нажмите, чтобы возобновить обновления в реальном времени";
+"Files: %@" = "Файлы: %@";
+"Search: %@ – %@" = "Поиск: %@ – %@";
+"Simple" = "Простой";
+"Normal" = "Обычный";
+"Hide Invisible Files" = "Скрыть невидимые файлы";
+"Folder not found" = "Папка не найдена";

@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  简体中文
+*/
+
+"Name" = "名称";
+"Folder" = "文件夹";
+"Size" = "大小";
+"Modified" = "修改时间";
+"Kind" = "种类";
+"Open" = "打开";
+"Show Archive Contents" = "显示归档内容";
+"Show in Finder" = "在访达中显示";
+"Quick Look" = "快速查看";
+"Copy Path" = "拷贝为路径名称";
+"No results" = "无结果";
+"Show all in Wherever" = "显示 Wherever 中的所有内容";
+"Created" = "创建时间";
+"Opened" = "上次打开时间";
+"Keep Folders on Top" = "将文件夹保持在顶部";
+"Search failed. Try again." = "搜索失败。请重试。";
+"%@ is not indexed" = "%@ 尚未建立索引";
+"Manage…" = "管理…";
+"Finishing the index…" = "正在完成索引…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Wherever 无法建立索引。请从 Wherever 菜单中选择“退出 Wherever”，然后重新打开 Wherever。";
+"Could not read %@" = "无法读取 %@";
+"Live updates are off for %@" = "%@ 的实时更新已关闭";

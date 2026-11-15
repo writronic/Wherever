@@ -1,0 +1,66 @@
+/*
+  Help.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Keyboard Shortcuts" = "Toetscombinaties";
+"Search window" = "Zoekvenster";
+"Move through the results" = "Door de resultaten bewegen";
+"Open the selected file" = "Open het geselecteerde bestand";
+"In File content, start Search Content when no text is left" = "In ‘Bestandsinhoud’ ‘Inhoud zoeken’ starten als er geen tekst meer over is";
+"Show the selected file in Finder" = "Toon het geselecteerde bestand in Finder";
+"Show or close Quick Look" = "Open of sluit Geef snel weer";
+"Copy the path of the selected file" = "Kopieer het pad van het geselecteerde bestand";
+"Clear the search text, then the filters" = "Wis de zoektekst en daarna de filters";
+"Open a new window" = "Open een nieuw venster";
+"Show or hide the inspector" = "Toon of verberg de inspecteur";
+"Hide or show invisible files" = "Verberg of toon onzichtbare bestanden";
+"Open Settings" = "Open Instellingen";
+"Quit Wherever" = "Stop Wherever";
+"Wherever search" = "Wherever-zoekveld";
+"Open or close Wherever search" = "Open of sluit het Wherever-zoekveld";
+"Open the selected file and close Wherever search" = "Open het geselecteerde bestand en sluit het Wherever-zoekveld";
+"Show the selected file in Finder and close Wherever search" = "Toon het geselecteerde bestand in Finder en sluit het Wherever-zoekveld";
+"Show or close the preview" = "Toon of sluit de voorvertoning";
+"Show all results in a Wherever window" = "Toon alle resultaten in een Wherever-venster";
+"Clear the search text, then close Wherever search" = "Wis de zoektekst en sluit daarna het Wherever-zoekveld";
+"Close Wherever search" = "Sluit het Wherever-zoekveld";
+"Show archive contents" = "Toon archiefinhoud";
+"Show archive contents in Wherever" = "Toon archiefinhoud in Wherever";
+"Archive window" = "Archiefvenster";
+"Open the item, the folder or the archive" = "Open het onderdeel, de map of het archief";
+"Go to the enclosing folder" = "Ga naar de bovenliggende map";
+"Show the archive in Finder" = "Toon het archief in Finder";
+"Copy the path inside the archive" = "Kopieer het pad in het archief";
+"Clear the search text" = "Wis de zoektekst";
+"Delete the selected items" = "Verwijder de geselecteerde onderdelen";
+"Save the changes" = "Bewaar de wijzigingen";
+"Save the archive under a new name" = "Bewaar het archief onder een nieuwe naam";
+"Undo the last change" = "Maak de laatste wijziging ongedaan";
+"Redo the last change" = "Voer de laatste wijziging opnieuw uit";
+"Search operators" = "Zoekoperatoren";
+"Names that hold the word, its letters side by side" = "Namen die het woord bevatten, letters direct na elkaar";
+"Names that hold these exact letters" = "Namen met precies deze letters";
+"Names that begin with the word" = "Namen die met het woord beginnen";
+"Names that end with the word" = "Namen die op het woord eindigen";
+"Names that are exactly the word" = "Namen die precies het woord zijn";
+"Leave out names that hold the word" = "Laat namen met het woord weg";
+"Search the words together, space included" = "Zoek de woorden samen, met de spatie";
+"Names inside a folder whose name matches the first word" = "Namen in een map waarvan de naam bij het eerste woord past";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "Hele namen; * staat voor willekeurige tekens, ? voor één teken. Typ eerst ' om * of ? als teken te zoeken";
+"Files with one of these extensions" = "Bestanden met een van deze extensies";
+"Leave out files with this extension" = "Laat bestanden met deze extensie weg";
+"Images; also video, audio, doc, code, archive, font and app" = "Afbeeldingen; ook video, audio, doc, code, archive, font en app";
+"Folders only; also file and link" = "Alleen mappen; ook file en link";
+"Only inside this folder" = "Alleen in deze map";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "Grootte in kb, mb, gb of tb; ook <1mb en 1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "Gewijzigd binnen s, m (minuten), h, d, w, mo of y; ook 1w..1mo";
+"The same as modified:" = "Hetzelfde als modified:";
+"Leave out invisible files" = "Laat onzichtbare bestanden weg";
+"Names that match a regular expression" = "Namen die bij een reguliere expressie passen";
+"Whole names that match a pattern of *, ? and [ ]" = "Hele namen die bij een patroon van *, ? en [ ] passen";
+"Names that begin with this text" = "Namen die met deze tekst beginnen";
+"Names that end with this text" = "Namen die op deze tekst eindigen";
+"Names that are exactly this text" = "Namen die precies deze tekst zijn";

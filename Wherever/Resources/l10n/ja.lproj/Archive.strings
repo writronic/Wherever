@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  日本語
+*/
+
+"Enclosing Folder" = "内包しているフォルダ";
+"Reading “%@”…" = "“%@”を読み込み中…";
+"Items: %@" = "項目: %@";
+"Encrypted" = "暗号化済み";
+"RAR archive" = "RARアーカイブ";
+"Items whose names or links point outside the archive, and device files." = "名前またはリンクがアーカイブの外を指す項目と、デバイスファイル。";
+"The archive “%@” is empty." = "アーカイブ“%@”は空です。";
+"Wherever can’t read “%@”. The archive may be damaged." = "Whereverは“%@”を読み込めません。アーカイブが破損している可能性があります。";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Whereverは“%@”を読み込めません。サポートされていないフォーマットです。";
+"Wherever can’t read “%@” because it is encrypted." = "“%@”は暗号化されているため、Whereverで読み込めません。";
+"Wherever can’t find “%@”." = "Whereverは“%@”を見つけられません。";
+"“%@” changed on disk. Close this window and open it again." = "“%@”はディスク上で変更されました。このウインドウを閉じて、もう一度開いてください。";
+"“%@” is open in another window. Close it first." = "“%@”は別のウインドウで開いています。先にそのウインドウを閉じてください。";
+"There isn’t enough space on “%@”. This needs %@ more." = "“%@”に十分な空き領域がありません。あと%@必要です。";
+"“%@” points outside the archive." = "“%@”はアーカイブの外を指しています。";
+"Preparing “%@”…" = "“%@”を準備中…";
+"Wherever can’t copy “%@”." = "Whereverは“%@”をコピーできません。";
+"Opening “%@”…" = "“%@”を開いています…";
+"Enter the password for “%@”." = "“%@”のパスワードを入力してください。";
+"Password" = "パスワード";
+"OK" = "OK";
+"The password is incorrect. Try again." = "パスワードが正しくありません。もう一度お試しください。";
+"Expand Selected Items…" = "選択した項目を展開…";
+"Expand Archive…" = "アーカイブを展開…";
+"Choose where to expand “%@”." = "“%@”の展開先を選択してください。";
+"Expand" = "展開";
+"Expanding “%@”…" = "“%@”を展開中…";
+"Stop expanding “%@”?" = "“%@”の展開を停止しますか？";
+"The items expanded so far will be removed." = "これまでに展開された項目は削除されます。";
+"Stop Expanding" = "展開を停止";
+"Continue" = "続ける";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "名前またはリンクがアーカイブの外を指す項目、デバイスファイル、およびWhereverが展開できなかった項目。";
+"Search in “%@”" = "“%@”内を検索";
+"“%@” can’t be deleted because another item in the archive links to it." = "アーカイブ内の別の項目がリンクしているため、“%@”は削除できません。";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "このアーカイブは古い種類の暗号化を使用しているため、Whereverでは編集できません。";
+"The archive would hold two items named “%@”." = "アーカイブに“%@”という名前の項目が2つできてしまいます。";
+"Delete" = "削除";
+"Edited" = "編集済み";
+"Read only" = "読み出し専用";
+"Only .zip files and tarballs can be edited." = ".zipファイルとtarアーカイブのみ編集できます。";
+"Items in an archive inside another archive can’t be edited." = "別のアーカイブ内にあるアーカイブの項目は編集できません。";
+"“%@” is locked." = "“%@”はロックされています。";
+"You don’t have permission to change “%@”." = "“%@”を変更するためのアクセス権がありません。";
+"“%@” is on a read-only volume." = "“%@”は読み出し専用のボリュームにあります。";
+"Add Files…" = "ファイルを追加…";
+"Add" = "追加";
+"Choose the items to add to “%@”." = "“%@”に追加する項目を選択してください。";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "“%@”という項目がすでにこの場所にあります。現在コピー中の項目で置き換えますか?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "“%@”という名前のフォルダがすでにこの場所にあります。現在コピー中のフォルダで置き換えますか?";
+"Replace" = "置き換える";
+"Keep Both" = "両方とも残す";
+"Stop" = "中止";
+"Apply to All" = "すべてに適用";
+"Adding “%@”…" = "“%@”を追加中…";
+"Save" = "保存";
+"Save As…" = "別名で保存…";
+"Saving “%@”…" = "“%@”を保存中…";
+"The archive “%@” could not be saved. %@" = "アーカイブ“%1$@”を保存できませんでした。%2$@";
+"Don’t Save" = "保存しない";
+"Do you want to save the changes made to the archive “%@”?" = "アーカイブ“%@”に加えた変更を保存しますか?";
+"Your changes will be lost if you don’t save them." = "保存しないと、変更内容は失われます。";

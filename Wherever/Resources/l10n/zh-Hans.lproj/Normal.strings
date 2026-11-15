@@ -1,0 +1,37 @@
+/*
+  Normal.strings
+  Wherever
+
+  简体中文
+*/
+
+"Search folder:" = "搜索文件夹：";
+"File name:" = "文件名：";
+"File content:" = "文件内容：";
+"File name match" = "文件名匹配方式";
+"File content match" = "文件内容匹配方式";
+"Search terms separated by the Enter key" = "用 Enter 键分隔搜索词";
+"Contains" = "包含";
+"Matches" = "匹配";
+"Begins with" = "开头是";
+"Ends with" = "结尾是";
+"Extension" = "扩展名";
+"Wildcard" = "通配符";
+"Regex" = "正则表达式";
+"Find all terms" = "查找所有词";
+"Find any term" = "查找任一词";
+"Search Content" = "搜索内容";
+"Stop" = "停止";
+"Every indexed disk" = "所有已索引的磁盘";
+"%@ (Not indexed)" = "%@（未索引）";
+"%@ (Can’t be indexed)" = "%@（无法建立索引）";
+"Index “%@”?" = "要为“%@”建立索引吗？";
+"Wherever reads every file name on this disk before it can search it. A large disk can take several minutes. To ignore it again, add it to Excluded Paths in Settings." = "Wherever 需要先读取此磁盘上的每个文件名，才能在其中搜索。较大的磁盘可能需要几分钟。如需再次忽略它，请在设置中将它添加到“被排除的路径”。";
+"Index" = "建立索引";
+"Cancel" = "取消";
+"Finds files that contain these terms. With an empty Search folder it reads every indexed disk; type or pick a disk or folder to search there." = "查找包含这些词的文件。搜索文件夹为空时，会读取所有已索引的磁盘；输入或选择磁盘或文件夹即可在其中搜索。";
+"Not Now" = "以后";
+"Browse…" = "浏览…";
+"Choose" = "选取";
+"Choose a folder to search in" = "选取要搜索的文件夹";
+"Choose a disk" = "选取磁盘";

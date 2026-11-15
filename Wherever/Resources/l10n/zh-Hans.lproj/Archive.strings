@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  简体中文
+*/
+
+"Enclosing Folder" = "上层文件夹";
+"Reading “%@”…" = "正在读取“%@”…";
+"Items: %@" = "项目：%@";
+"Encrypted" = "已加密";
+"RAR archive" = "RAR归档";
+"Items whose names or links point outside the archive, and device files." = "名称或链接指向归档以外位置的项目，以及设备文件。";
+"The archive “%@” is empty." = "归档“%@”为空。";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever 无法读取“%@”。该归档可能已损坏。";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever 无法读取“%@”。它采用了不受支持的格式。";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever 无法读取“%@”，因为它已加密。";
+"Wherever can’t find “%@”." = "Wherever 找不到“%@”。";
+"“%@” changed on disk. Close this window and open it again." = "“%@”已在磁盘上更改。请关闭此窗口并重新打开。";
+"“%@” is open in another window. Close it first." = "“%@”已在另一个窗口中打开。请先关闭该窗口。";
+"There isn’t enough space on “%@”. This needs %@ more." = "“%@”上没有足够的空间。还需要 %@。";
+"“%@” points outside the archive." = "“%@”指向归档以外的位置。";
+"Preparing “%@”…" = "正在准备“%@”…";
+"Wherever can’t copy “%@”." = "Wherever 无法拷贝“%@”。";
+"Opening “%@”…" = "正在打开“%@”…";
+"Enter the password for “%@”." = "输入“%@”的密码。";
+"Password" = "密码";
+"OK" = "好";
+"The password is incorrect. Try again." = "密码不正确。请再试一次。";
+"Expand Selected Items…" = "解压缩所选项目…";
+"Expand Archive…" = "解压缩归档…";
+"Choose where to expand “%@”." = "选择要将“%@”解压缩到的位置。";
+"Expand" = "解压缩";
+"Expanding “%@”…" = "正在解压缩“%@”…";
+"Stop expanding “%@”?" = "要停止解压缩“%@”吗？";
+"The items expanded so far will be removed." = "目前已解压缩的项目将被移除。";
+"Stop Expanding" = "停止解压缩";
+"Continue" = "继续";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "名称或链接指向归档以外位置的项目、设备文件，以及 Wherever 无法解压缩的项目。";
+"Search in “%@”" = "在“%@”中搜索";
+"“%@” can’t be deleted because another item in the archive links to it." = "无法删除“%@”，因为归档中的另一个项目链接到它。";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "此归档使用旧式加密，因此 Wherever 无法编辑它。";
+"The archive would hold two items named “%@”." = "归档中将会有两个名为“%@”的项目。";
+"Delete" = "删除";
+"Edited" = "已编辑";
+"Read only" = "只读";
+"Only .zip files and tarballs can be edited." = "只能编辑 .zip 文件和 tar 归档。";
+"Items in an archive inside another archive can’t be edited." = "无法编辑另一个归档内的归档中的项目。";
+"“%@” is locked." = "“%@”已锁定。";
+"You don’t have permission to change “%@”." = "你没有更改“%@”的权限。";
+"“%@” is on a read-only volume." = "“%@”位于只读宗卷上。";
+"Add Files…" = "添加文件…";
+"Add" = "添加";
+"Choose the items to add to “%@”." = "选择要添加到“%@”的项目。";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "此位置已经存在名称为“%@”的项目。你要使用正在拷贝的项目进行替换吗？";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "此位置已经存在名称为“%@”的文件夹。你要使用正在拷贝的文件夹进行替换吗？";
+"Replace" = "替换";
+"Keep Both" = "保留两者";
+"Stop" = "停止";
+"Apply to All" = "全部应用";
+"Adding “%@”…" = "正在添加“%@”…";
+"Save" = "保存";
+"Save As…" = "保存为…";
+"Saving “%@”…" = "正在保存“%@”…";
+"The archive “%@” could not be saved. %@" = "未能保存归档“%1$@”。%2$@";
+"Don’t Save" = "不保存";
+"Do you want to save the changes made to the archive “%@”?" = "你要保存对归档“%@”所做的更改吗？";
+"Your changes will be lost if you don’t save them." = "如果不保存，你更改的内容将会丢失。";

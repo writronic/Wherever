@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  English (Base Language)
+*/
+
+"Enclosing Folder" = "Enclosing Folder";
+"Reading “%@”…" = "Reading “%@”…";
+"Items: %@" = "Items: %@";
+"Encrypted" = "Encrypted";
+"RAR archive" = "RAR archive";
+"Items whose names or links point outside the archive, and device files." = "Items whose names or links point outside the archive, and device files.";
+"The archive “%@” is empty." = "The archive “%@” is empty.";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever can’t read “%@”. The archive may be damaged.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever can’t read “%@”. It is in an unsupported format.";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever can’t read “%@” because it is encrypted.";
+"Wherever can’t find “%@”." = "Wherever can’t find “%@”.";
+"“%@” changed on disk. Close this window and open it again." = "“%@” changed on disk. Close this window and open it again.";
+"“%@” is open in another window. Close it first." = "“%@” is open in another window. Close it first.";
+"There isn’t enough space on “%@”. This needs %@ more." = "There isn’t enough space on “%@”. This needs %@ more.";
+"“%@” points outside the archive." = "“%@” points outside the archive.";
+"Preparing “%@”…" = "Preparing “%@”…";
+"Wherever can’t copy “%@”." = "Wherever can’t copy “%@”.";
+"Opening “%@”…" = "Opening “%@”…";
+"Enter the password for “%@”." = "Enter the password for “%@”.";
+"Password" = "Password";
+"OK" = "OK";
+"The password is incorrect. Try again." = "The password is incorrect. Try again.";
+"Expand Selected Items…" = "Expand Selected Items…";
+"Expand Archive…" = "Expand Archive…";
+"Choose where to expand “%@”." = "Choose where to expand “%@”.";
+"Expand" = "Expand";
+"Expanding “%@”…" = "Expanding “%@”…";
+"Stop expanding “%@”?" = "Stop expanding “%@”?";
+"The items expanded so far will be removed." = "The items expanded so far will be removed.";
+"Stop Expanding" = "Stop Expanding";
+"Continue" = "Continue";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand.";
+"Search in “%@”" = "Search in “%@”";
+"“%@” can’t be deleted because another item in the archive links to it." = "“%@” can’t be deleted because another item in the archive links to it.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "This archive uses an old kind of encryption, so Wherever can’t edit it.";
+"The archive would hold two items named “%@”." = "The archive would hold two items named “%@”.";
+"Delete" = "Delete";
+"Edited" = "Edited";
+"Read only" = "Read only";
+"Only .zip files and tarballs can be edited." = "Only .zip files and tarballs can be edited.";
+"Items in an archive inside another archive can’t be edited." = "Items in an archive inside another archive can’t be edited.";
+"“%@” is locked." = "“%@” is locked.";
+"You don’t have permission to change “%@”." = "You don’t have permission to change “%@”.";
+"“%@” is on a read-only volume." = "“%@” is on a read-only volume.";
+"Add Files…" = "Add Files…";
+"Add" = "Add";
+"Choose the items to add to “%@”." = "Choose the items to add to “%@”.";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?";
+"Replace" = "Replace";
+"Keep Both" = "Keep Both";
+"Stop" = "Stop";
+"Apply to All" = "Apply to All";
+"Adding “%@”…" = "Adding “%@”…";
+"Save" = "Save";
+"Save As…" = "Save As…";
+"Saving “%@”…" = "Saving “%@”…";
+"The archive “%@” could not be saved. %@" = "The archive “%@” could not be saved. %@";
+"Don’t Save" = "Don’t Save";
+"Do you want to save the changes made to the archive “%@”?" = "Do you want to save the changes made to the archive “%@”?";
+"Your changes will be lost if you don’t save them." = "Your changes will be lost if you don’t save them.";

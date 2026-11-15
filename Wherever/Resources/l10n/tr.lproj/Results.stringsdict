@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%lld results</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@results@</string>
+		<key>results</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld sonuç</string>
+			<key>other</key>
+			<string>%lld sonuç</string>
+		</dict>
+	</dict>
+	<key>Read %lld of %lld files</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%1$lld / %2$#@files@ dosya okundu</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%2$lld</string>
+			<key>other</key>
+			<string>%2$lld</string>
+		</dict>
+	</dict>
+	<key>Stopped after %lld of %lld files</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Durduruldu: %1$lld / %2$#@files@ dosya okundu</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%2$lld</string>
+			<key>other</key>
+			<string>%2$lld</string>
+		</dict>
+	</dict>
+	<key>%lld files not downloaded</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld dosya indirilmedi</string>
+			<key>other</key>
+			<string>%lld dosya indirilmedi</string>
+		</dict>
+	</dict>
+	<key>%lld files in unsupported formats</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>Desteklenmeyen biçimde %lld dosya</string>
+			<key>other</key>
+			<string>Desteklenmeyen biçimlerde %lld dosya</string>
+		</dict>
+	</dict>
+	<key>%lld disks are not indexed</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@disks@</string>
+		<key>disks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld disk için dizin oluşturulmadı</string>
+			<key>other</key>
+			<string>%lld disk için dizin oluşturulmadı</string>
+		</dict>
+	</dict>
+	<key>%lld files skipped</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@files@</string>
+		<key>files</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld dosya atlandı</string>
+			<key>other</key>
+			<string>%lld dosya atlandı</string>
+		</dict>
+	</dict>
+	<key>%lld items</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld öğe</string>
+			<key>other</key>
+			<string>%lld öğe</string>
+		</dict>
+	</dict>
+	<key>Are you sure you want to open %lld items?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@ açmak istediğinizden emin misiniz?</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld öğeyi</string>
+			<key>other</key>
+			<string>%lld öğeyi</string>
+		</dict>
+	</dict>
+	<key>Are you sure you want to show %lld items in Finder?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@ Finder’da göstermek istediğinizden emin misiniz?</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lld</string>
+			<key>one</key>
+			<string>%lld öğeyi</string>
+			<key>other</key>
+			<string>%lld öğeyi</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

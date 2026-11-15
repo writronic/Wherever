@@ -1,0 +1,23 @@
+/*
+  Localizable.strings
+  Wherever
+
+  العربية
+*/
+
+"Search files" = "البحث عن الملفات";
+"Starting" = "جارٍ البدء";
+"Loading the saved index" = "جارٍ تحميل الفهرس المحفوظ";
+"Indexing the disk" = "جارٍ فهرسة القرص";
+"Indexing %@" = "جارٍ فهرسة %@";
+"Ready" = "جاهز";
+"Live updates on" = "التحديث المباشر قيد التشغيل";
+"Live updates paused" = "التحديث المباشر متوقف مؤقتًا";
+"Click to pause live updates" = "انقر لإيقاف التحديث المباشر مؤقتًا";
+"Click to resume live updates" = "انقر لاستئناف التحديث المباشر";
+"Files: %@" = "الملفات: %@";
+"Search: %@ – %@" = "البحث: %@ – %@";
+"Simple" = "بسيط";
+"Normal" = "عادي";
+"Hide Invisible Files" = "إخفاء الملفات غير المرئية";
+"Folder not found" = "لم يتم العثور على المجلد";

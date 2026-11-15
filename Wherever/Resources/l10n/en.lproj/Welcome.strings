@@ -1,0 +1,31 @@
+/*
+  Welcome.strings
+  Wherever
+
+  English (Base Language)
+  The English sentence is the lookup key. Every value equals its key.
+*/
+
+"Welcome to Wherever" = "Welcome to Wherever";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "Full Disk Access lets Wherever see every folder on this Mac, so it can find any file.";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac.";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "Under Privacy & Security, Full Disk Access, turn on Wherever.";
+"Quit and reopen Wherever so it can search every folder." = "Quit and reopen Wherever so it can search every folder.";
+"Open System Settings" = "Open System Settings";
+"Let's Go!" = "Let's Go!";
+"Full Disk Access is on. Wherever is ready to start." = "Full Disk Access is on. Wherever is ready to start.";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever.";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever.";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access.";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "Wherever could not start its search. Quit and reopen Wherever, then try again.";
+"Welcome to Wherever!" = "Welcome to Wherever!";
+"Wherever it is, find it." = "Wherever it is, find it.";
+"Back" = "Back";
+"Next" = "Next";
+"Choose Your Mode" = "Choose Your Mode";
+"You can change it later in the View menu." = "You can change it later in the View menu.";
+"Set Up Wherever" = "Set Up Wherever";
+"You can change these later in Settings." = "You can change these later in Settings.";
+"Launcher shortcut" = "Launcher shortcut";
+"You’re All Set" = "You’re All Set";
+"Step %lld of %lld" = "Step %lld of %lld";

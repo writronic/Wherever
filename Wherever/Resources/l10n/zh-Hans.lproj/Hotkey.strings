@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  简体中文
+*/
+
+"Press a shortcut…" = "按下快捷键…";
+"Record Shortcut" = "录制快捷键";
+"Launcher shortcut" = "启动器快捷键";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "点按后，按下新的快捷键。按 Esc 取消，按 Delete 移除。";
+"Hold Control, Option or Command with the key." = "请在按键的同时按住 Control、Option 或 Command。";
+"macOS already uses this shortcut." = "macOS 已使用此快捷键。";
+"Wherever already uses this shortcut." = "Wherever 已使用此快捷键。";
+"Use a letter, number or symbol key." = "请使用字母、数字或符号键。";
+"Wherever could not register this shortcut. Try another." = "Wherever 无法注册此快捷键。请尝试其他快捷键。";
+"Space" = "空格";

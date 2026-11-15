@@ -1,0 +1,36 @@
+/*
+  Filters.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Extension (pdf, docx)" = "Uzantı (pdf, docx)";
+"Extension" = "Uzantı";
+"Kind" = "Tür";
+"Size" = "Büyüklük";
+"Modified" = "Değiştirilme";
+"%@: %@" = "%@: %@";
+"Hide invisible files" = "Görünmez dosyaları gizle";
+"Any kind" = "Herhangi bir tür";
+"Files" = "Dosyalar";
+"Folders" = "Klasörler";
+"Links" = "Bağlantılar";
+"Images" = "Görüntüler";
+"Videos" = "Videolar";
+"Audio" = "Ses";
+"Documents" = "Belgeler";
+"Code" = "Kod";
+"Archives" = "Arşivler";
+"Fonts" = "Fontlar";
+"Apps" = "Uygulamalar";
+"Any size" = "Herhangi bir büyüklük";
+"Under 1 MB" = "1 MB’tan küçük";
+"1 MB to 100 MB" = "1 MB ile 100 MB arası";
+"100 MB to 1 GB" = "100 MB ile 1 GB arası";
+"Over 1 GB" = "1 GB’tan büyük";
+"Any time" = "Herhangi bir zaman";
+"Last 24 hours" = "Son 24 saat";
+"Last 7 days" = "Son 7 gün";
+"Last 30 days" = "Son 30 gün";
+"Last 12 months" = "Son 12 ay";

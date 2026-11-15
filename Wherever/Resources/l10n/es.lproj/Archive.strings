@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  Español
+*/
+
+"Enclosing Folder" = "Carpeta contenedora";
+"Reading “%@”…" = "Leyendo «%@»…";
+"Items: %@" = "Ítems: %@";
+"Encrypted" = "Cifrado";
+"RAR archive" = "archivo RAR";
+"Items whose names or links point outside the archive, and device files." = "Ítems cuyo nombre o enlace apunta fuera del archivo, y archivos de dispositivo.";
+"The archive “%@” is empty." = "El archivo «%@» está vacío.";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever no puede leer «%@». Puede que el archivo esté dañado.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever no puede leer «%@». Su formato no es compatible.";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever no puede leer «%@» porque está cifrado.";
+"Wherever can’t find “%@”." = "Wherever no encuentra «%@».";
+"“%@” changed on disk. Close this window and open it again." = "«%@» ha cambiado en el disco. Cierra esta ventana y vuelve a abrirlo.";
+"“%@” is open in another window. Close it first." = "«%@» está abierto en otra ventana. Cierra primero esa ventana.";
+"There isn’t enough space on “%@”. This needs %@ more." = "No hay suficiente espacio en «%@». Se necesitan %@ más.";
+"“%@” points outside the archive." = "«%@» apunta fuera del archivo.";
+"Preparing “%@”…" = "Preparando «%@»…";
+"Wherever can’t copy “%@”." = "Wherever no puede copiar «%@».";
+"Opening “%@”…" = "Abriendo «%@»…";
+"Enter the password for “%@”." = "Introduce la contraseña de «%@».";
+"Password" = "Contraseña";
+"OK" = "Aceptar";
+"The password is incorrect. Try again." = "La contraseña no es correcta. Inténtalo de nuevo.";
+"Expand Selected Items…" = "Descomprimir ítems seleccionados…";
+"Expand Archive…" = "Descomprimir archivo…";
+"Choose where to expand “%@”." = "Elige dónde descomprimir «%@».";
+"Expand" = "Descomprimir";
+"Expanding “%@”…" = "Descomprimiendo «%@»…";
+"Stop expanding “%@”?" = "¿Detener la descompresión de «%@»?";
+"The items expanded so far will be removed." = "Se eliminarán los ítems descomprimidos hasta ahora.";
+"Stop Expanding" = "Detener descompresión";
+"Continue" = "Continuar";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "Ítems cuyo nombre o enlace apunta fuera del archivo, archivos de dispositivo e ítems que Wherever no pudo descomprimir.";
+"Search in “%@”" = "Buscar en «%@»";
+"“%@” can’t be deleted because another item in the archive links to it." = "No se puede eliminar «%@» porque otro ítem del archivo comprimido está enlazado a él.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "Este archivo comprimido usa un tipo de cifrado antiguo, por lo que Wherever no puede editarlo.";
+"The archive would hold two items named “%@”." = "El archivo comprimido tendría dos ítems llamados «%@».";
+"Delete" = "Eliminar";
+"Edited" = "Modificado";
+"Read only" = "Solo lectura";
+"Only .zip files and tarballs can be edited." = "Solo se pueden editar archivos .zip y archivos comprimidos tar.";
+"Items in an archive inside another archive can’t be edited." = "No se pueden editar los ítems de un archivo comprimido que está dentro de otro.";
+"“%@” is locked." = "«%@» está bloqueado.";
+"You don’t have permission to change “%@”." = "No tienes permiso para modificar «%@».";
+"“%@” is on a read-only volume." = "«%@» está en un volumen de solo lectura.";
+"Add Files…" = "Añadir archivos…";
+"Add" = "Añadir";
+"Choose the items to add to “%@”." = "Elige los ítems que quieres añadir a «%@».";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Ya existe un ítem denominado «%@» en esta ubicación. ¿Quieres reemplazarlo por el que estás copiando?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Ya existe una carpeta denominada «%@» en esta ubicación. ¿Quieres reemplazarla por la que estás copiando?";
+"Replace" = "Reemplazar";
+"Keep Both" = "Guardar ambos";
+"Stop" = "Detener";
+"Apply to All" = "Aplicar a todo";
+"Adding “%@”…" = "Añadiendo «%@»…";
+"Save" = "Guardar";
+"Save As…" = "Guardar como…";
+"Saving “%@”…" = "Guardando «%@»…";
+"The archive “%@” could not be saved. %@" = "El archivo comprimido «%1$@» no se ha podido guardar. %2$@";
+"Don’t Save" = "No guardar";
+"Do you want to save the changes made to the archive “%@”?" = "¿Quieres guardar los cambios realizados en el archivo comprimido «%@»?";
+"Your changes will be lost if you don’t save them." = "Si no guardas los cambios, se perderán.";

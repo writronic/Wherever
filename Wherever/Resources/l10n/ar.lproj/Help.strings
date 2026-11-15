@@ -1,0 +1,66 @@
+/*
+  Help.strings
+  Wherever
+
+  العربية
+*/
+
+"Keyboard Shortcuts" = "اختصارات لوحة المفاتيح";
+"Search window" = "نافذة البحث";
+"Move through the results" = "التنقل بين النتائج";
+"Open the selected file" = "فتح الملف المحدد";
+"In File content, start Search Content when no text is left" = "في محتوى الملف، بدء البحث في المحتوى عند عدم بقاء نص";
+"Show the selected file in Finder" = "إظهار الملف المحدد في فايندر";
+"Show or close Quick Look" = "فتح المعاينة السريعة أو إغلاقها";
+"Copy the path of the selected file" = "نسخ مسار الملف المحدد";
+"Clear the search text, then the filters" = "مسح نص البحث، ثم عوامل التصفية";
+"Open a new window" = "فتح نافذة جديدة";
+"Show or hide the inspector" = "إظهار المفتش أو إخفاؤه";
+"Hide or show invisible files" = "إخفاء الملفات غير المرئية أو إظهارها";
+"Open Settings" = "فتح الإعدادات";
+"Quit Wherever" = "إنهاء Wherever";
+"Wherever search" = "بحث Wherever";
+"Open or close Wherever search" = "فتح بحث Wherever أو إغلاقه";
+"Open the selected file and close Wherever search" = "فتح الملف المحدد وإغلاق بحث Wherever";
+"Show the selected file in Finder and close Wherever search" = "إظهار الملف المحدد في فايندر وإغلاق بحث Wherever";
+"Show or close the preview" = "إظهار المعاينة أو إغلاقها";
+"Show all results in a Wherever window" = "إظهار كل النتائج في نافذة Wherever";
+"Clear the search text, then close Wherever search" = "مسح نص البحث، ثم إغلاق بحث Wherever";
+"Close Wherever search" = "إغلاق بحث Wherever";
+"Show archive contents" = "إظهار محتويات الأرشيف";
+"Show archive contents in Wherever" = "إظهار محتويات الأرشيف في Wherever";
+"Archive window" = "نافذة الأرشيف";
+"Open the item, the folder or the archive" = "فتح العنصر أو المجلد أو الأرشيف";
+"Go to the enclosing folder" = "الانتقال إلى مجلد التضمين";
+"Show the archive in Finder" = "إظهار الأرشيف في فايندر";
+"Copy the path inside the archive" = "نسخ المسار داخل الأرشيف";
+"Clear the search text" = "مسح نص البحث";
+"Delete the selected items" = "حذف العناصر المحددة";
+"Save the changes" = "حفظ التغييرات";
+"Save the archive under a new name" = "حفظ الأرشيف باسم جديد";
+"Undo the last change" = "التراجع عن آخر تغيير";
+"Redo the last change" = "إعادة آخر تغيير";
+"Search operators" = "عوامل البحث";
+"Names that hold the word, its letters side by side" = "أسماء تحتوي على الكلمة بأحرف متتالية";
+"Names that hold these exact letters" = "أسماء تحتوي على هذه الأحرف بالضبط";
+"Names that begin with the word" = "أسماء تبدأ بالكلمة";
+"Names that end with the word" = "أسماء تنتهي بالكلمة";
+"Names that are exactly the word" = "أسماء تطابق الكلمة تمامًا";
+"Leave out names that hold the word" = "استبعاد الأسماء التي تحتوي على الكلمة";
+"Search the words together, space included" = "البحث عن الكلمات معًا، بما فيها المسافة";
+"Names inside a folder whose name matches the first word" = "أسماء داخل مجلد يطابق اسمه الكلمة الأولى";
+"Whole names; * is any letters, ? is one letter. Type ' first to find * or ? as letters" = "أسماء كاملة؛ * تعني أي أحرف و? حرفًا واحدًا. اكتب ' أولًا للبحث عن * أو ? كأحرف";
+"Files with one of these extensions" = "ملفات بأحد هذه الامتدادات";
+"Leave out files with this extension" = "استبعاد الملفات بهذا الامتداد";
+"Images; also video, audio, doc, code, archive, font and app" = "صور؛ وأيضًا video وaudio وdoc وcode وarchive وfont وapp";
+"Folders only; also file and link" = "المجلدات فقط؛ وأيضًا file وlink";
+"Only inside this folder" = "داخل هذا المجلد فقط";
+"Size in kb, mb, gb or tb; also <1mb and 1mb..100mb" = "الحجم بوحدات kb أو mb أو gb أو tb؛ وأيضًا <1mb و1mb..100mb";
+"Changed within s, m (minutes), h, d, w, mo or y; also 1w..1mo" = "تم تعديلها خلال s أو m (دقائق) أو h أو d أو w أو mo أو y؛ وأيضًا 1w..1mo";
+"The same as modified:" = "مثل modified:";
+"Leave out invisible files" = "استبعاد الملفات غير المرئية";
+"Names that match a regular expression" = "أسماء تطابق تعبيرًا نمطيًا";
+"Whole names that match a pattern of *, ? and [ ]" = "أسماء كاملة تطابق نمطًا من * و? و[ ]";
+"Names that begin with this text" = "أسماء تبدأ بهذا النص";
+"Names that end with this text" = "أسماء تنتهي بهذا النص";
+"Names that are exactly this text" = "أسماء تطابق هذا النص تمامًا";

@@ -1,0 +1,17 @@
+/*
+  Hotkey.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Press a shortcut…" = "Bir kestirmeye basın…";
+"Record Shortcut" = "Kestirme Kaydet";
+"Launcher shortcut" = "Başlatıcı kestirmesi";
+"Click, then press the new shortcut. Escape cancels. Delete removes it." = "Tıklayın, sonra yeni kestirmeye basın. Escape iptal eder, Delete kaldırır.";
+"Hold Control, Option or Command with the key." = "Tuşla birlikte Control, Option veya Command tuşunu basılı tutun.";
+"macOS already uses this shortcut." = "macOS bu kestirmeyi zaten kullanıyor.";
+"Wherever already uses this shortcut." = "Wherever bu kestirmeyi zaten kullanıyor.";
+"Use a letter, number or symbol key." = "Bir harf, rakam veya sembol tuşu kullanın.";
+"Wherever could not register this shortcut. Try another." = "Wherever bu kestirmeyi kaydedemedi. Başka bir kestirme deneyin.";
+"Space" = "Boşluk";

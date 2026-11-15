@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  Nederlands
+*/
+
+"Name" = "Naam";
+"Folder" = "Map";
+"Size" = "Grootte";
+"Modified" = "Gewijzigd";
+"Kind" = "Soort";
+"Open" = "Open";
+"Show Archive Contents" = "Toon archiefinhoud";
+"Show in Finder" = "Toon in Finder";
+"Quick Look" = "Geef snel weer";
+"Copy Path" = "Kopieer als padnaam";
+"No results" = "Geen resultaten";
+"Show all in Wherever" = "Alles weergeven in Wherever";
+"Created" = "Aangemaakt";
+"Opened" = "Geopend";
+"Keep Folders on Top" = "Zorg dat mappen bovenaan staan";
+"Search failed. Try again." = "Zoekopdracht mislukt. Probeer het opnieuw.";
+"%@ is not indexed" = "%@ is niet geïndexeerd";
+"Manage…" = "Beheer…";
+"Finishing the index…" = "Index voltooien…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Wherever kon de index niet aanmaken. Kies ‘Stop Wherever’ in het Wherever-menu en open Wherever opnieuw.";
+"Could not read %@" = "Kan %@ niet lezen";
+"Live updates are off for %@" = "Live bijwerken uit voor %@";

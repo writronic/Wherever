@@ -1,0 +1,29 @@
+/*
+  Results.strings
+  Wherever
+
+  Polski
+*/
+
+"Name" = "Nazwa";
+"Folder" = "Folder";
+"Size" = "Wielkość";
+"Modified" = "Zmodyfikowano";
+"Kind" = "Rodzaj";
+"Open" = "Otwórz";
+"Show Archive Contents" = "Pokaż zawartość archiwum";
+"Show in Finder" = "Pokaż w Finderze";
+"Quick Look" = "Szybki przegląd";
+"Copy Path" = "Kopiuj jako nazwę ścieżki";
+"No results" = "Brak wyników";
+"Show all in Wherever" = "Pokaż wszystko w Wherever";
+"Created" = "Utworzono";
+"Opened" = "Otwarto";
+"Keep Folders on Top" = "Utrzymuj foldery na górze";
+"Search failed. Try again." = "Szukanie nie powiodło się. Spróbuj ponownie.";
+"%@ is not indexed" = "%@ nie jest zindeksowany";
+"Manage…" = "Zarządzaj…";
+"Finishing the index…" = "Kończenie indeksowania…";
+"Wherever could not build the index. Choose Quit Wherever from the Wherever menu, then open Wherever again." = "Wherever nie mógł utworzyć indeksu. Wybierz „Zakończ Wherever” z menu Wherever, a potem otwórz Wherever ponownie.";
+"Could not read %@" = "Nie można odczytać: %@";
+"Live updates are off for %@" = "Aktualizacje na żywo wyłączone: %@";

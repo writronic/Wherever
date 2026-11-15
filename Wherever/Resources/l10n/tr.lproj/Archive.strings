@@ -1,0 +1,68 @@
+/*
+  Archive.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Enclosing Folder" = "İçeren Klasör";
+"Reading “%@”…" = "“%@” okunuyor…";
+"Items: %@" = "Öğe: %@";
+"Encrypted" = "Şifreli";
+"RAR archive" = "RAR arşivi";
+"Items whose names or links point outside the archive, and device files." = "Adı veya bağlantısı arşivin dışını gösteren öğeler ve aygıt dosyaları.";
+"The archive “%@” is empty." = "“%@” arşivi boş.";
+"Wherever can’t read “%@”. The archive may be damaged." = "Wherever “%@” arşivini okuyamıyor. Arşiv hasarlı olabilir.";
+"Wherever can’t read “%@”. It is in an unsupported format." = "Wherever “%@” arşivini okuyamıyor. Desteklenmeyen bir biçimde.";
+"Wherever can’t read “%@” because it is encrypted." = "Wherever “%@” arşivini şifreli olduğu için okuyamıyor.";
+"Wherever can’t find “%@”." = "Wherever “%@” öğesini bulamıyor.";
+"“%@” changed on disk. Close this window and open it again." = "“%@” diskte değişti. Bu pencereyi kapatıp yeniden açın.";
+"“%@” is open in another window. Close it first." = "“%@” başka bir pencerede açık. Önce o pencereyi kapatın.";
+"There isn’t enough space on “%@”. This needs %@ more." = "“%@” üzerinde yeterli alan yok. %@ daha gerekiyor.";
+"“%@” points outside the archive." = "“%@” arşivin dışını gösteriyor.";
+"Preparing “%@”…" = "“%@” hazırlanıyor…";
+"Wherever can’t copy “%@”." = "Wherever “%@” öğesini kopyalayamıyor.";
+"Opening “%@”…" = "“%@” açılıyor…";
+"Enter the password for “%@”." = "“%@” için parolayı girin.";
+"Password" = "Parola";
+"OK" = "Tamam";
+"The password is incorrect. Try again." = "Parola yanlış. Yeniden deneyin.";
+"Expand Selected Items…" = "Seçili Öğeleri Çıkar…";
+"Expand Archive…" = "Arşiv Aç…";
+"Choose where to expand “%@”." = "“%@” arşivinin çıkarılacağı yeri seçin.";
+"Expand" = "Çıkar";
+"Expanding “%@”…" = "“%@” çıkarılıyor…";
+"Stop expanding “%@”?" = "“%@” çıkarma işlemi durdurulsun mu?";
+"The items expanded so far will be removed." = "Şimdiye kadar çıkarılan öğeler silinecek.";
+"Stop Expanding" = "Çıkarmayı Durdur";
+"Continue" = "Devam Et";
+"Items whose names or links point outside the archive, device files, and items Wherever couldn’t expand." = "Adı veya bağlantısı arşivin dışını gösteren öğeler, aygıt dosyaları ve Wherever’ın çıkaramadığı öğeler.";
+"Search in “%@”" = "“%@” içinde ara";
+"“%@” can’t be deleted because another item in the archive links to it." = "Arşivdeki başka bir öğe “%@” öğesine bağlandığı için silinemiyor.";
+"This archive uses an old kind of encryption, so Wherever can’t edit it." = "Bu arşiv eski bir şifreleme türü kullandığı için Wherever onu düzenleyemez.";
+"The archive would hold two items named “%@”." = "Arşivde “%@” adlı iki öğe olurdu.";
+"Delete" = "Sil";
+"Edited" = "Düzenlendi";
+"Read only" = "Salt okunur";
+"Only .zip files and tarballs can be edited." = "Yalnızca .zip dosyaları ve tar arşivleri düzenlenebilir.";
+"Items in an archive inside another archive can’t be edited." = "Başka bir arşivin içindeki arşivde bulunan öğeler düzenlenemez.";
+"“%@” is locked." = "“%@” kilitli.";
+"You don’t have permission to change “%@”." = "“%@” öğesini değiştirme izniniz yok.";
+"“%@” is on a read-only volume." = "“%@” salt okunur bir birimde.";
+"Add Files…" = "Dosya Ekle…";
+"Add" = "Ekle";
+"Choose the items to add to “%@”." = "“%@” arşivine eklenecek öğeleri seçin.";
+"An item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Bu konumda “%@” adlı bir öğe zaten var. Onu, kopyaladığınızla değiştirmek istiyor musunuz?";
+"A folder named “%@” already exists in this location. Do you want to replace it with the one you’re copying?" = "Bu konumda “%@” adlı bir klasör zaten var. Var olanı kopyaladığınızla değiştirmek istiyor musunuz?";
+"Replace" = "Değiştir";
+"Keep Both" = "Her İkisini de Tut";
+"Stop" = "Durdur";
+"Apply to All" = "Tümüne Uygula";
+"Adding “%@”…" = "“%@” ekleniyor…";
+"Save" = "Kaydet";
+"Save As…" = "Farklı Kaydet…";
+"Saving “%@”…" = "“%@” kaydediliyor…";
+"The archive “%@” could not be saved. %@" = "“%1$@” arşivi kaydedilemedi. %2$@";
+"Don’t Save" = "Kaydetme";
+"Do you want to save the changes made to the archive “%@”?" = "“%@” arşivinde yapılan değişiklikleri kaydetmek ister misiniz?";
+"Your changes will be lost if you don’t save them." = "Kaydetmezseniz değişiklikleriniz kaybolacaktır.";

@@ -1,0 +1,23 @@
+/*
+  Inspector.strings
+  Wherever
+
+  简体中文
+*/
+
+"Show Inspector" = "显示检查器";
+"Hide Inspector" = "隐藏检查器";
+"Show inspector" = "显示检查器";
+"No Selection" = "未选择";
+"Information" = "信息";
+"Preview" = "预览";
+"Where" = "位置";
+"Created" = "创建时间";
+"Owner" = "所有者";
+"Permissions" = "权限";
+"Read & Write" = "读与写";
+"Read only" = "只读";
+"Write only" = "只写";
+"No access" = "无访问权限";
+"%@ · %@" = "%@ · %@";
+"In iCloud" = "在iCloud中";

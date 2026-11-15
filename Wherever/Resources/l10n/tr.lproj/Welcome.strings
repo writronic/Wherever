@@ -1,0 +1,30 @@
+/*
+  Welcome.strings
+  Wherever
+
+  Türkçe
+*/
+
+"Welcome to Wherever" = "Wherever’a Hoş Geldiniz";
+"Full Disk Access lets Wherever see every folder on this Mac, so it can find any file." = "Tam Disk Erişimi, Wherever’ın bu Mac’teki her klasörü görmesini sağlar; böylece istediğiniz dosyayı bulabilir.";
+"Wherever reads file names, sizes and dates, and in Normal mode the words inside your files. Nothing leaves your Mac." = "Wherever dosya adlarını, boyutlarını ve tarihlerini, Normal modda ise dosyalarınızın içindeki sözcükleri okur. Hiçbir şey Mac’inizden çıkmaz.";
+"Under Privacy & Security, Full Disk Access, turn on Wherever." = "Gizlilik ve Güvenlik altında Tam Disk Erişimi bölümünde Wherever’ı açın.";
+"Quit and reopen Wherever so it can search every folder." = "Her klasörde arama yapabilmesi için Wherever’dan çıkıp yeniden açın.";
+"Open System Settings" = "Sistem Ayarları’nı Aç";
+"Let's Go!" = "Başlayalım!";
+"Full Disk Access is on. Wherever is ready to start." = "Tam Disk Erişimi açık. Wherever başlamaya hazır.";
+"Full Disk Access is still off. In System Settings > Privacy & Security > Full Disk Access, turn on this copy of Wherever." = "Tam Disk Erişimi hâlâ kapalı. Sistem Ayarları > Gizlilik ve Güvenlik > Tam Disk Erişimi bölümünde Wherever’ın bu kopyasını açın.";
+"Wherever could not check Full Disk Access. It will try again. If this continues, quit and reopen Wherever." = "Wherever, Tam Disk Erişimi’ni kontrol edemedi. Yeniden deneyecek. Sorun sürerse Wherever’dan çıkıp yeniden açın.";
+"System Settings could not open. Open it from the Apple menu, then choose Privacy & Security > Full Disk Access." = "Sistem Ayarları açılamadı. Apple menüsünden açın, ardından Gizlilik ve Güvenlik > Tam Disk Erişimi’ni seçin.";
+"Wherever could not start its search. Quit and reopen Wherever, then try again." = "Wherever aramayı başlatamadı. Wherever’dan çıkıp yeniden açın ve tekrar deneyin.";
+"Welcome to Wherever!" = "Wherever’a Hoş Geldiniz!";
+"Wherever it is, find it." = "Nerede olursa olsun, bulursunuz.";
+"Back" = "Geri";
+"Next" = "İleri";
+"Choose Your Mode" = "Modunuzu Seçin";
+"You can change it later in the View menu." = "Bunu daha sonra Görüntü menüsünden değiştirebilirsiniz.";
+"Set Up Wherever" = "Wherever’ı Ayarlayın";
+"You can change these later in Settings." = "Bunları daha sonra Ayarlar’dan değiştirebilirsiniz.";
+"Launcher shortcut" = "Başlatıcı kestirmesi";
+"You’re All Set" = "Her Şey Hazır";
+"Step %lld of %lld" = "Adım %1$lld / %2$lld";
